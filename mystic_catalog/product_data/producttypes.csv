@@ -1,0 +1,12 @@
+﻿MasterCatalogName,ProductType,Standard,Configurable,Bundle,Component,GoodsType
+Mystic_Dev,Hats,Yes,Yes,No,Yes,Physical
+Mystic_Dev,Hiking Footwear,Yes,Yes,No,Yes,Physical
+Mystic_Dev,Hammock,Yes,Yes,Yes,No,Physical
+Mystic_Dev,Hiking Jacket,Yes,Yes,No,Yes,Physical
+Mystic_Dev,Hiking Shorts,Yes,Yes,No,Yes,Physical
+Mystic_Dev,Hiking Vest,Yes,Yes,Yes,Yes,Physical
+Mystic_Dev,Boot,Yes,Yes,Yes,Yes,Physical
+Mystic_Dev,Backpack,Yes,Yes,Yes,Yes,Physical
+Mystic_Dev,Accessories,Yes,Yes,Yes,Yes,Physical
+Mystic_Dev,Base,Yes,Yes,Yes,Yes,Physical
+Mystic_Dev,Article,Yes,Yes,Yes,Yes,Physical

@@ -1,0 +1,835 @@
+MasterCatalogName,AttributeCode,DataType,Namespace,Value,Name,DisplayOrder
+Mystic_Dev,fill-power,String,Tenant,551-to-650,551 to 650,1
+Mystic_Dev,fill-power,String,Tenant,651-to-750,651 to 750,2
+Mystic_Dev,fill-power,String,Tenant,751-to-850,751 to 850,3
+Mystic_Dev,sleeping-capacity,String,Tenant,1-Person,1 Person,1
+Mystic_Dev,sleeping-capacity,String,Tenant,2-Person,2 Person,2
+Mystic_Dev,sleeping-capacity,String,Tenant,3-Person,3 Person,3
+Mystic_Dev,sleeping-capacity,String,Tenant,4-Person,4 Person,4
+Mystic_Dev,sleeping-capacity,String,Tenant,5-Person,5 Person,5
+Mystic_Dev,sleeping-capacity,String,Tenant,6-Person,6 Person,6
+Mystic_Dev,sleeping-capacity,String,Tenant,8--Person,8+ Person,7
+Mystic_Dev,availability,String,Tenant,24hrs,Usually Ships in 24 Hours,1
+Mystic_Dev,availability,String,Tenant,24-48hrs,Usually Ships in 24 to 48 Hours,2
+Mystic_Dev,availability,String,Tenant,24-72hrs,Usually Ships in 24 to 72 Hours,3
+Mystic_Dev,availability,String,Tenant,1-2days,Usually Ships in 1 to 2 Days,4
+Mystic_Dev,availability,String,Tenant,2-3days,Usually Ships in 2 to 3 Days,5
+Mystic_Dev,availability,String,Tenant,1-2weeks,Usually Ships in 1 to 2 Weeks,6
+Mystic_Dev,availability,String,Tenant,2-3weeks,Usually Ships in 2 to 3 Weeks,7
+Mystic_Dev,availability,String,Tenant,2-4weeks,Usually Ships in 2 to 4 Weeks,8
+Mystic_Dev,availability,String,Tenant,4-6weeks,Usually Ships in 4 to 6 Weeks,9
+Mystic_Dev,availability,String,Tenant,Available-for-Same-Day-In-Store-Pickup,Available for Same Day In-Store Pickup,10
+Mystic_Dev,footwear-closure,String,Tenant,Lace-up,Lace-up,1
+Mystic_Dev,footwear-closure,String,Tenant,Single-pull-Lace,Single-pull Lace,2
+Mystic_Dev,footwear-height,String,Tenant,Ankle,Ankle,1
+Mystic_Dev,footwear-height,String,Tenant,Over-the-ankle,Over-the-ankle,2
+Mystic_Dev,material,String,Tenant,Ripstop-nylon/nylon-oxford,Ripstop nylon/nylon oxford,1
+Mystic_Dev,material,String,Tenant,Nylon,Nylon,2
+Mystic_Dev,material,String,Tenant,High-tenacity-nylon,High tenacity nylon,3
+Mystic_Dev,material,String,Tenant,Nylon/mesh,Nylon/mesh,4
+Mystic_Dev,material,String,Tenant,Ripstop-nylon,Ripstop nylon,5
+Mystic_Dev,material,String,Tenant,Nylon/closed-cell-foam,Nylon/closed-cell foam,6
+Mystic_Dev,material,String,Tenant,Polyurethane-coated-nylon,Polyurethane-coated nylon,7
+Mystic_Dev,material,String,Tenant,Ripstop-high-density-polyethylene--HDPE-,Ripstop high-density polyethylene (HDPE),8
+Mystic_Dev,material,String,Tenant,Polyester/multidensity-foam,Polyester/multidensity foam,9
+Mystic_Dev,material,String,Tenant,150-denier-nylon,150-denier nylon,10
+Mystic_Dev,material,String,Tenant,Cotton,Cotton,11
+Mystic_Dev,material,String,Tenant,100-denier-nylon,100-denier nylon,12
+Mystic_Dev,material,String,Tenant,600-denier-polyester,600-denier polyester,13
+Mystic_Dev,material,String,Tenant,300-denier-ripstop-polyester,300-denier ripstop polyester,14
+Mystic_Dev,material,String,Tenant,Brushed-polyester-with-polyurethane-coating,Brushed polyester with polyurethane coating,15
+Mystic_Dev,material,String,Tenant,Post-consumer-recycled-Ecolast,Post-consumer recycled Ecolast,16
+Mystic_Dev,material,String,Tenant,Corn/plant-starches,Corn/plant starches,17
+Mystic_Dev,material,String,Tenant,Polyester-webbing/aluminum-ring,Polyester webbing/aluminum ring,18
+Mystic_Dev,material,String,Tenant,Nylon-webbing,Nylon webbing,19
+Mystic_Dev,material,String,Tenant,Polyester-webbing,Polyester webbing,20
+Mystic_Dev,material,String,Tenant,Nylon/foam-buoyancy-cells,Nylon/foam buoyancy cells,21
+Mystic_Dev,material,String,Tenant,Ripstop-nylon/webbing,Ripstop nylon/webbing,22
+Mystic_Dev,material,String,Tenant,Polyester/nylon,Polyester/nylon,23
+Mystic_Dev,material,String,Tenant,Aluminum-/-ABS-Plastic,Aluminum / ABS Plastic,24
+Mystic_Dev,material,String,Tenant,Plastic,Plastic,25
+Mystic_Dev,material,String,Tenant,Stainless-Steel,Stainless Steel,26
+Mystic_Dev,material,String,Tenant,Cast-Iron,Cast Iron,27
+Mystic_Dev,material,String,Tenant,Silicone,Silicone,28
+Mystic_Dev,material,String,Tenant,Silicone/nylon,Silicone/nylon,29
+Mystic_Dev,material,String,Tenant,PVC-free-vinyl,PVC-free vinyl,30
+Mystic_Dev,material,String,Tenant,Aluminum,Aluminum,31
+Mystic_Dev,material,String,Tenant,Leather,Leather,32
+Mystic_Dev,material,String,Tenant,Fabric,Fabric,33
+Mystic_Dev,material,String,Tenant,Polyester,Polyester,34
+Mystic_Dev,material,String,Tenant,Velvet,Velvet,35
+Mystic_Dev,material,String,Tenant,Wood,Wood,36
+Mystic_Dev,frame-color,String,Tenant,Satin-Black,Satin Black,1
+Mystic_Dev,frame-color,String,Tenant,Silver/Gunmetal,Silver/Gunmetal,2
+Mystic_Dev,frame-color,String,Tenant,Coffee,Coffee,3
+Mystic_Dev,frame-color,String,Tenant,Black-Coffee-Tort,Black Coffee Tort,4
+Mystic_Dev,frame-color,String,Tenant,Black,Black,5
+Mystic_Dev,frame-color,String,Tenant,Purple,Purple,6
+Mystic_Dev,frame-color,String,Tenant,Matte-Blue,Matte Blue,7
+Mystic_Dev,frame-color,String,Tenant,Matte-Camo-Green,Matte Camo Green,8
+Mystic_Dev,frame-color,String,Tenant,Alpine-Glow,Alpine Glow,9
+Mystic_Dev,frame-color,String,Tenant,Matte-Fern,Matte Fern,10
+Mystic_Dev,frame-color,String,Tenant,White,White,11
+Mystic_Dev,frame-color,String,Tenant,Matte-Camo,Matte Camo,12
+Mystic_Dev,frame-color,String,Tenant,Bronze-Decay,Bronze Decay,13
+Mystic_Dev,frame-color,String,Tenant,Flat-Black,Flat Black,14
+Mystic_Dev,best-use,String,Tenant,Hiking,Hiking,1
+Mystic_Dev,best-use,String,Tenant,Casual,Casual,2
+Mystic_Dev,best-use,String,Tenant,Travel,Travel,3
+Mystic_Dev,best-use,String,Tenant,Snowsports,Snowsports,4
+Mystic_Dev,best-use,String,Tenant,Running,Running,5
+Mystic_Dev,best-use,String,Tenant,Climbing,Climbing,6
+Mystic_Dev,best-use,String,Tenant,Backcountry-Skiing,Backcountry Skiing,7
+Mystic_Dev,best-use,String,Tenant,Downhill-Skiing,Downhill Skiing,8
+Mystic_Dev,best-use,String,Tenant,Multisport,Multisport,9
+Mystic_Dev,best-use,String,Tenant,Snowboarding,Snowboarding,10
+Mystic_Dev,best-use,String,Tenant,Cross-Country-Skiing,Cross-Country Skiing,11
+Mystic_Dev,best-use,String,Tenant,Fitness,Fitness,12
+Mystic_Dev,best-use,String,Tenant,Mountaineering,Mountaineering,13
+Mystic_Dev,best-use,String,Tenant,Yoga,Yoga,14
+Mystic_Dev,best-use,String,Tenant,Backpacking,Backpacking,15
+Mystic_Dev,best-use,String,Tenant,Rock-Climbing,Rock Climbing,16
+Mystic_Dev,best-use,String,Tenant,Trail-Running,Trail Running,17
+Mystic_Dev,best-use,String,Tenant,Ice-Climbing,Ice Climbing,18
+Mystic_Dev,best-use,String,Tenant,Snowshoeing,Snowshoeing,19
+Mystic_Dev,best-use,String,Tenant,Urban-Cycling,Urban Cycling,20
+Mystic_Dev,best-use,String,Tenant,Fishing,Fishing,21
+Mystic_Dev,best-use,String,Tenant,Camping,Camping,22
+Mystic_Dev,best-use,String,Tenant,Watersports,Watersports,23
+Mystic_Dev,best-use,String,Tenant,Bike-Commuting,Bike Commuting,24
+Mystic_Dev,gender,String,Tenant,Men-s,Men's,1
+Mystic_Dev,gender,String,Tenant,Women-s,Women's,2
+Mystic_Dev,gender,String,Tenant,Boys-,Boys',3
+Mystic_Dev,gender,String,Tenant,Girls-,Girls',4
+Mystic_Dev,gender,String,Tenant,Kids-,Kids',5
+Mystic_Dev,gender,String,Tenant,Unisex,Unisex,6
+Mystic_Dev,brand,String,Tenant,Biolage,Biolage,1
+Mystic_Dev,brand,String,Tenant,Gerber,Gerber,2
+Mystic_Dev,brand,String,Tenant,Arc-teryx,Arc'teryx,3
+Mystic_Dev,brand,String,Tenant,Big-Agnes,Big Agnes,4
+Mystic_Dev,brand,String,Tenant,Black-Diamond,Black Diamond,5
+Mystic_Dev,brand,String,Tenant,Columbia,Columbia,6
+Mystic_Dev,brand,String,Tenant,Craghoppers,Craghoppers,7
+Mystic_Dev,brand,String,Tenant,ExOfficio,ExOfficio,8
+Mystic_Dev,brand,String,Tenant,Exped,Exped,9
+Mystic_Dev,brand,String,Tenant,Haglofs,Haglofs,10
+Mystic_Dev,brand,String,Tenant,Helly-Hansen,Helly Hansen,11
+Mystic_Dev,brand,String,Tenant,Kelty,Kelty,12
+Mystic_Dev,brand,String,Tenant,KUHL,KUHL,13
+Mystic_Dev,brand,String,Tenant,La-Sportiva,La Sportiva,14
+Mystic_Dev,brand,String,Tenant,Lucy,Lucy,15
+Mystic_Dev,brand,String,Tenant,Mammut,Mammut,16
+Mystic_Dev,brand,String,Tenant,Marmot,Marmot,17
+Mystic_Dev,brand,String,Tenant,Merrell,Merrell,18
+Mystic_Dev,brand,String,Tenant,MONTANE,MONTANE,19
+Mystic_Dev,brand,String,Tenant,Mountain-Hardwear,Mountain Hardwear,20
+Mystic_Dev,brand,String,Tenant,Mountain-Khakis,Mountain Khakis,21
+Mystic_Dev,brand,String,Tenant,Mtn-Hardwear,Mtn Hardwear,22
+Mystic_Dev,brand,String,Tenant,Mystic,Mystic,23
+Mystic_Dev,brand,String,Tenant,Nau,Nau,24
+Mystic_Dev,brand,String,Tenant,Outdoor-Research,Outdoor Research,25
+Mystic_Dev,brand,String,Tenant,Patagonia,Patagonia,26
+Mystic_Dev,brand,String,Tenant,prAna,prAna,27
+Mystic_Dev,brand,String,Tenant,Roark-Revival,Roark Revival,28
+Mystic_Dev,brand,String,Tenant,Royal-Robbins,Royal Robbins,29
+Mystic_Dev,brand,String,Tenant,Osprey,Osprey,30
+Mystic_Dev,brand,String,Tenant,CamelBak,CamelBak,31
+Mystic_Dev,brand,String,Tenant,Sierra-Designs,Sierra Designs,32
+Mystic_Dev,brand,String,Tenant,Sherpa-Adventure-Gear,Sherpa Adventure Gear,33
+Mystic_Dev,brand,String,Tenant,Deuter,Deuter,34
+Mystic_Dev,brand,String,Tenant,The-North-Face,The North Face,35
+Mystic_Dev,brand,String,Tenant,Gregory,Gregory,36
+Mystic_Dev,brand,String,Tenant,Toad-Co,Toad&Co,37
+Mystic_Dev,brand,String,Tenant,White-Sierra,White Sierra,38
+Mystic_Dev,brand,String,Tenant,Platypus,Platypus,39
+Mystic_Dev,brand,String,Tenant,ENO,ENO,40
+Mystic_Dev,brand,String,Tenant,JanSport,JanSport,41
+Mystic_Dev,brand,String,Tenant,HENNESSY,HENNESSY,42
+Mystic_Dev,brand,String,Tenant,Smartwool,Smartwool,43
+Mystic_Dev,brand,String,Tenant,Chaos,Chaos,44
+Mystic_Dev,brand,String,Tenant,Sea-to-Summit,Sea to Summit,45
+Mystic_Dev,brand,String,Tenant,Serengeti,Serengeti,46
+Mystic_Dev,brand,String,Tenant,NEMO,NEMO,47
+Mystic_Dev,brand,String,Tenant,Tifosi,Tifosi,48
+Mystic_Dev,brand,String,Tenant,Tentsile,Tentsile,49
+Mystic_Dev,brand,String,Tenant,Reflekt,Reflekt,50
+Mystic_Dev,brand,String,Tenant,ALPS-Moutaineering,ALPS Moutaineering,51
+Mystic_Dev,brand,String,Tenant,Smith,Smith,52
+Mystic_Dev,brand,String,Tenant,Julbo,Julbo,53
+Mystic_Dev,brand,String,Tenant,Bolle,Bolle,54
+Mystic_Dev,brand,String,Tenant,Oakley,Oakley,55
+Mystic_Dev,brand,String,Tenant,Gordini,Gordini,56
+Mystic_Dev,brand,String,Tenant,Manzella,Manzella,57
+Mystic_Dev,brand,String,Tenant,Pearl-Izumi,Pearl Izumi,58
+Mystic_Dev,brand,String,Tenant,Ruffwear,Ruffwear,59
+Mystic_Dev,brand,String,Tenant,GoPro,GoPro,60
+Mystic_Dev,brand,String,Tenant,Cycle-Dog,Cycle Dog,61
+Mystic_Dev,brand,String,Tenant,Chaco,Chaco,62
+Mystic_Dev,brand,String,Tenant,Lowa,Lowa,63
+Mystic_Dev,brand,String,Tenant,Salomon,Salomon,64
+Mystic_Dev,brand,String,Tenant,Five-Ten,Five Ten,65
+Mystic_Dev,brand,String,Tenant,Ahnu,Ahnu,66
+Mystic_Dev,brand,String,Tenant,Asolo,Asolo,67
+Mystic_Dev,brand,String,Tenant,KEEN,KEEN,68
+Mystic_Dev,brand,String,Tenant,Timberland,Timberland,69
+Mystic_Dev,brand,String,Tenant,Oboz,Oboz,70
+Mystic_Dev,brand,String,Tenant,HOKA-ONE-ONE,HOKA ONE ONE,71
+Mystic_Dev,brand,String,Tenant,Vasque,Vasque,72
+Mystic_Dev,brand,String,Tenant,Hi-Tec,Hi-Tec,73
+Mystic_Dev,brand,String,Tenant,Kammock,Kammock,74
+Mystic_Dev,brand,String,Tenant,Icebreaker,Icebreaker,75
+Mystic_Dev,brand,String,Tenant,Thorlo,Thorlo,76
+Mystic_Dev,brand,String,Tenant,Lorpen,Lorpen,77
+Mystic_Dev,brand,String,Tenant,Garmin,Garmin,78
+Mystic_Dev,brand,String,Tenant,Suunto,Suunto,79
+Mystic_Dev,brand,String,Tenant,GoalZero,GoalZero,80
+Mystic_Dev,brand,String,Tenant,Primus,Primus,81
+Mystic_Dev,brand,String,Tenant,Eureka,Eureka,82
+Mystic_Dev,brand,String,Tenant,Biolite,Biolite,83
+Mystic_Dev,brand,String,Tenant,Camp-Chef,Camp Chef,84
+Mystic_Dev,brand,String,Tenant,Coleman,Coleman,85
+Mystic_Dev,brand,String,Tenant,Snow-Peak,Snow Peak,86
+Mystic_Dev,brand,String,Tenant,Esbit,Esbit,87
+Mystic_Dev,brand,String,Tenant,Jetboil,Jetboil,88
+Mystic_Dev,brand,String,Tenant,Solo-Stove,Solo Stove,89
+Mystic_Dev,brand,String,Tenant,GoSun,GoSun,90
+Mystic_Dev,brand,String,Tenant,Seattle-Sports,Seattle Sports,91
+Mystic_Dev,brand,String,Tenant,SealLine,SealLine,92
+Mystic_Dev,brand,String,Tenant,MTI,MTI,93
+Mystic_Dev,brand,String,Tenant,NRS,NRS,94
+Mystic_Dev,brand,String,Tenant,Mizu,Mizu,95
+Mystic_Dev,brand,String,Tenant,Yeti,Yeti,96
+Mystic_Dev,brand,String,Tenant,Avex,Avex,97
+Mystic_Dev,brand,String,Tenant,Klean-Kanteen,Klean Kanteen,98
+Mystic_Dev,brand,String,Tenant,Eagle-Creek,Eagle Creek,99
+Mystic_Dev,brand,String,Tenant,Timbuk2,Timbuk2,100
+Mystic_Dev,brand,String,Tenant,United-by-Blue,United by Blue,101
+Mystic_Dev,brand,String,Tenant,MSR,MSR,102
+Mystic_Dev,brand,String,Tenant,Warrior,Warrior,103
+Mystic_Dev,brand,String,Tenant,Bauer,Bauer,104
+Mystic_Dev,brand,String,Tenant,Nautica,Nautica,105
+Mystic_Dev,brand,String,Tenant,Levi-s,Levi's,106
+Mystic_Dev,brand-colors,String,Tenant,Black,Black,1
+Mystic_Dev,brand-colors,String,Tenant,White,White,2
+Mystic_Dev,brand-colors,String,Tenant,Blue,Blue,3
+Mystic_Dev,brand-colors,String,Tenant,Red,Red,4
+Mystic_Dev,brand-colors,String,Tenant,Yellow,Yellow,5
+Mystic_Dev,brand-colors,String,Tenant,Purple,Purple,6
+Mystic_Dev,brand-colors,String,Tenant,Green,Green,7
+Mystic_Dev,brand-colors,String,Tenant,Orange,Orange,8
+Mystic_Dev,brand-colors,String,Tenant,Teal,Teal,9
+Mystic_Dev,brand-colors,String,Tenant,Dijon-Brown/Urban-Navy,Dijon Brown/Urban Navy,10
+Mystic_Dev,brand-colors,String,Tenant,Poincianaornge/Asphltgry,Poincianaornge/Asphltgry,11
+Mystic_Dev,brand-colors,String,Tenant,Midnight-Blue,Midnight Blue,12
+Mystic_Dev,brand-colors,String,Tenant,Terra-Cotta/Silver,Terra Cotta/Silver,13
+Mystic_Dev,brand-colors,String,Tenant,Mystic-Magenta,Mystic Magenta,14
+Mystic_Dev,brand-colors,String,Tenant,Grey/Putty/Apple-Green,Grey/Putty/Apple Green,15
+Mystic_Dev,brand-colors,String,Tenant,Stormcloud-Grey,Stormcloud Grey,16
+Mystic_Dev,brand-colors,String,Tenant,Grey,Grey,17
+Mystic_Dev,brand-colors,String,Tenant,Deep-Sea-Blue,Deep Sea Blue,18
+Mystic_Dev,brand-colors,String,Tenant,Orange/Cream,Orange/Cream,19
+Mystic_Dev,brand-colors,String,Tenant,Anthracite-Black,Anthracite Black,20
+Mystic_Dev,brand-colors,String,Tenant,Sunset-Orange/Gray,Sunset Orange/Gray,21
+Mystic_Dev,brand-colors,String,Tenant,Pine-Green,Pine Green,22
+Mystic_Dev,brand-colors,String,Tenant,Tan/Yellow,Tan/Yellow,23
+Mystic_Dev,brand-colors,String,Tenant,Solar-Flare-Orange,Solar Flare Orange,24
+Mystic_Dev,brand-colors,String,Tenant,Gray/Plum,Gray/Plum,25
+Mystic_Dev,brand-colors,String,Tenant,Onyx-Black,Onyx Black,26
+Mystic_Dev,brand-colors,String,Tenant,Bay-Blue,Bay Blue,27
+Mystic_Dev,brand-colors,String,Tenant,Avatar-Blue,Avatar Blue,28
+Mystic_Dev,brand-colors,String,Tenant,Yellow/Red,Yellow/Red,29
+Mystic_Dev,brand-colors,String,Tenant,Flame-Orange,Flame Orange,30
+Mystic_Dev,brand-colors,String,Tenant,Orange/Fog,Orange/Fog,31
+Mystic_Dev,brand-colors,String,Tenant,Gunmetal,Gunmetal,32
+Mystic_Dev,brand-colors,String,Tenant,Green-Lime/Steel,Green Lime/Steel,33
+Mystic_Dev,brand-colors,String,Tenant,Pink-Lotus,Pink Lotus,34
+Mystic_Dev,brand-colors,String,Tenant,Grey-Ice,Grey Ice,35
+Mystic_Dev,brand-colors,String,Tenant,Aquamarine,Aquamarine,36
+Mystic_Dev,brand-colors,String,Tenant,Moss-Green,Moss Green,37
+Mystic_Dev,brand-colors,String,Tenant,Magma,Magma,38
+Mystic_Dev,brand-colors,String,Tenant,Nightsky,Nightsky,39
+Mystic_Dev,brand-colors,String,Tenant,Graphite/Bright-Fuchsia,Graphite/Bright Fuchsia,40
+Mystic_Dev,brand-colors,String,Tenant,Charcoal/Graphite,Charcoal/Graphite,41
+Mystic_Dev,brand-colors,String,Tenant,Gunmetal/Lime-Punch,Gunmetal/Lime Punch,42
+Mystic_Dev,brand-colors,String,Tenant,Cranberry/Aubergine,Cranberry/Aubergine,43
+Mystic_Dev,brand-colors,String,Tenant,Maple-Orange,Maple Orange,44
+Mystic_Dev,brand-colors,String,Tenant,Marine-Blue,Marine Blue,45
+Mystic_Dev,brand-colors,String,Tenant,Shadow-Black/Berry,Shadow Black/Berry,46
+Mystic_Dev,brand-colors,String,Tenant,Sky--Blue,Sky  Blue,47
+Mystic_Dev,brand-colors,String,Tenant,Storm-Black,Storm Black,48
+Mystic_Dev,brand-colors,String,Tenant,Green-Apple,Green Apple,49
+Mystic_Dev,brand-colors,String,Tenant,Dark-Shadow,Dark Shadow,50
+Mystic_Dev,brand-colors,String,Tenant,Blue-Night,Blue Night,51
+Mystic_Dev,brand-colors,String,Tenant,Waxed-Field-Brown,Waxed Field Brown,52
+Mystic_Dev,brand-colors,String,Tenant,Titanium,Titanium,53
+Mystic_Dev,brand-colors,String,Tenant,Thunderhead-Grey,Thunderhead Grey,54
+Mystic_Dev,brand-colors,String,Tenant,Dark-Raspberry,Dark Raspberry,55
+Mystic_Dev,brand-colors,String,Tenant,Chromatic-Yellow,Chromatic Yellow,56
+Mystic_Dev,brand-colors,String,Tenant,True-Teal,True Teal,57
+Mystic_Dev,brand-colors,String,Tenant,Fire,Fire,58
+Mystic_Dev,brand-colors,String,Tenant,Molten-Lava,Molten Lava,59
+Mystic_Dev,brand-colors,String,Tenant,Grey-Tar/Forge-Grey,Grey Tar/Forge Grey,60
+Mystic_Dev,brand-colors,String,Tenant,Black/Lime-Punch,Black/Lime Punch,61
+Mystic_Dev,brand-colors,String,Tenant,Diablo,Diablo,62
+Mystic_Dev,brand-colors,String,Tenant,Desert-Camo,Desert Camo,63
+Mystic_Dev,brand-colors,String,Tenant,Liberty,Liberty,64
+Mystic_Dev,brand-colors,String,Tenant,Dusk,Dusk,65
+Mystic_Dev,brand-colors,String,Tenant,Sangria,Sangria,66
+Mystic_Dev,brand-colors,String,Tenant,Nightshade,Nightshade,67
+Mystic_Dev,brand-colors,String,Tenant,Slate,Slate,68
+Mystic_Dev,brand-colors,String,Tenant,Big-Sur-Blue,Big Sur Blue,69
+Mystic_Dev,brand-colors,String,Tenant,Pelican,Pelican,70
+Mystic_Dev,brand-colors,String,Tenant,Cairn,Cairn,71
+Mystic_Dev,brand-colors,String,Tenant,Earth,Earth,72
+Mystic_Dev,brand-colors,String,Tenant,Pewter,Pewter,73
+Mystic_Dev,brand-colors,String,Tenant,Crocus,Crocus,74
+Mystic_Dev,brand-colors,String,Tenant,Seaport,Seaport,75
+Mystic_Dev,brand-colors,String,Tenant,Wheat,Wheat,76
+Mystic_Dev,brand-colors,String,Tenant,Dusty-Rose,Dusty Rose,77
+Mystic_Dev,brand-colors,String,Tenant,Silver-Gray-Heather,Silver Gray Heather,78
+Mystic_Dev,brand-colors,String,Tenant,Charcoal,Charcoal,79
+Mystic_Dev,brand-colors,String,Tenant,Cardinal-Red/Asphalt-Grey,Cardinal Red/Asphalt Grey,80
+Mystic_Dev,brand-colors,String,Tenant,Orchid,Orchid,81
+Mystic_Dev,brand-colors,String,Tenant,Glacier-Grey,Glacier Grey,82
+Mystic_Dev,brand-colors,String,Tenant,Night/Ultraviolet,Night/Ultraviolet,83
+Mystic_Dev,brand-colors,String,Tenant,Sunglow,Sunglow,84
+Mystic_Dev,brand-colors,String,Tenant,Sockeye-Red,Sockeye Red,85
+Mystic_Dev,brand-colors,String,Tenant,Wave-Orange,Wave Orange,86
+Mystic_Dev,brand-colors,String,Tenant,Red-Currant,Red Currant,87
+Mystic_Dev,brand-colors,String,Tenant,Granite-Gray,Granite Gray,88
+Mystic_Dev,brand-colors,String,Tenant,Blue-Spring,Blue Spring,89
+Mystic_Dev,brand-colors,String,Tenant,Pacific-Blue,Pacific Blue,90
+Mystic_Dev,brand-colors,String,Tenant,Blue-Mountains,Blue Mountains,91
+Mystic_Dev,brand-colors,String,Tenant,Monument-Valley,Monument Valley,92
+Mystic_Dev,brand-colors,String,Tenant,Meadow-Green,Meadow Green,93
+Mystic_Dev,brand-colors,String,Tenant,Twilight-Gray,Twilight Gray,94
+Mystic_Dev,brand-colors,String,Tenant,Blue-Petal,Blue Petal,95
+Mystic_Dev,brand-colors,String,Tenant,Camper-Arrows,Camper Arrows,96
+Mystic_Dev,brand-colors,String,Tenant,Slate/Caramel,Slate/Caramel,97
+Mystic_Dev,brand-colors,String,Tenant,Gray/Mint,Gray/Mint,98
+Mystic_Dev,brand-colors,String,Tenant,Burnt-Maple,Burnt Maple,99
+Mystic_Dev,brand-colors,String,Tenant,Olive,Olive,100
+Mystic_Dev,brand-colors,String,Tenant,Autobahn/Black/Tomato-Red,Autobahn/Black/Tomato Red,101
+Mystic_Dev,brand-colors,String,Tenant,Sesame,Sesame,102
+Mystic_Dev,brand-colors,String,Tenant,Granite,Granite,103
+Mystic_Dev,brand-colors,String,Tenant,Bitter-Root,Bitter Root,104
+Mystic_Dev,brand-colors,String,Tenant,Sodalite,Sodalite,105
+Mystic_Dev,brand-colors,String,Tenant,Dark-Gray/Navy,Dark Gray/Navy,106
+Mystic_Dev,brand-colors,String,Tenant,Dark-Olive,Dark Olive,107
+Mystic_Dev,brand-colors,String,Tenant,Black/Cajun,Black/Cajun,108
+Mystic_Dev,brand-colors,String,Tenant,Graphite,Graphite,109
+Mystic_Dev,brand-colors,String,Tenant,Graphite/Black,Graphite/Black,110
+Mystic_Dev,brand-colors,String,Tenant,Black/Greenery,Black/Greenery,111
+Mystic_Dev,brand-colors,String,Tenant,India-Ink/Macaw,India Ink/Macaw,112
+Mystic_Dev,brand-colors,String,Tenant,Raven/Burnt-Ochre,Raven/Burnt Ochre,113
+Mystic_Dev,brand-colors,String,Tenant,Dark-Shadow-Grey/Green,Dark Shadow Grey/Green,114
+Mystic_Dev,brand-colors,String,Tenant,Tnf-Black/Tnf-White,Tnf Black/Tnf White,115
+Mystic_Dev,brand-colors,String,Tenant,Griffin-Grey/Shady-Blue,Griffin Grey/Shady Blue,116
+Mystic_Dev,brand-colors,String,Tenant,Brown/Green,Brown/Green,117
+Mystic_Dev,brand-colors,String,Tenant,Brown,Brown,118
+Mystic_Dev,brand-colors,String,Tenant,Radiance/Goat,Radiance/Goat,119
+Mystic_Dev,brand-colors,String,Tenant,Silver-Birch/Canteen,Silver Birch/Canteen,120
+Mystic_Dev,brand-colors,String,Tenant,Magenta,Magenta,121
+Mystic_Dev,brand-colors,String,Tenant,Barley,Barley,122
+Mystic_Dev,brand-colors,String,Tenant,Royal-Lilac/Adventurine,Royal Lilac/Adventurine,123
+Mystic_Dev,brand-colors,String,Tenant,Gray/Wild-Dove,Gray/Wild Dove,124
+Mystic_Dev,brand-colors,String,Tenant,Steel-Gray/Hydrangea,Steel Gray/Hydrangea,125
+Mystic_Dev,brand-colors,String,Tenant,Slate-Brown/Red-Mahogany,Slate Brown/Red Mahogany,126
+Mystic_Dev,brand-colors,String,Tenant,Castlerock/Tender-Shoots,Castlerock/Tender Shoots,127
+Mystic_Dev,brand-colors,String,Tenant,Dark-Purple/Purple-Sage,Dark Purple/Purple Sage,128
+Mystic_Dev,brand-colors,String,Tenant,Dark-Sand/Cendre,Dark Sand/Cendre,129
+Mystic_Dev,brand-colors,String,Tenant,Silver/Gray,Silver/Gray,130
+Mystic_Dev,brand-colors,String,Tenant,Cocoa-Brown,Cocoa Brown,131
+Mystic_Dev,brand-colors,String,Tenant,Honeysuckle-Pink/Tnf-White,Honeysuckle Pink/Tnf White,132
+Mystic_Dev,brand-colors,String,Tenant,Glacier,Glacier,133
+Mystic_Dev,brand-colors,String,Tenant,Leaf,Leaf,134
+Mystic_Dev,brand-colors,String,Tenant,Brown/Mint,Brown/Mint,135
+Mystic_Dev,brand-colors,String,Tenant,Ash-Stone,Ash Stone,136
+Mystic_Dev,brand-colors,String,Tenant,Black/Burnt-Olive,Black/Burnt Olive,137
+Mystic_Dev,brand-colors,String,Tenant,Magnet/Cerise-Pink,Magnet/Cerise Pink,138
+Mystic_Dev,brand-colors,String,Tenant,Midnight-Navy/Tawny-Olive,Midnight Navy/Tawny Olive,139
+Mystic_Dev,brand-colors,String,Tenant,Brown/Taupe/Clementine,Brown/Taupe/Clementine,140
+Mystic_Dev,brand-colors,String,Tenant,Warm-Grey/Beetroot/Salmon,Warm Grey/Beetroot/Salmon,141
+Mystic_Dev,brand-colors,String,Tenant,Navy,Navy,142
+Mystic_Dev,brand-colors,String,Tenant,Walnut,Walnut,143
+Mystic_Dev,brand-colors,String,Tenant,Emperor,Emperor,144
+Mystic_Dev,brand-colors,String,Tenant,Oatmeal,Oatmeal,145
+Mystic_Dev,brand-colors,String,Tenant,Light-Gray,Light Gray,146
+Mystic_Dev,brand-colors,String,Tenant,Taupe,Taupe,147
+Mystic_Dev,brand-colors,String,Tenant,Dark-Khaki,Dark Khaki,148
+Mystic_Dev,brand-colors,String,Tenant,Gray,Gray,149
+Mystic_Dev,brand-colors,String,Tenant,Medium-Gray,Medium Gray,150
+Mystic_Dev,brand-colors,String,Tenant,Oatmeal-Heather,Oatmeal Heather,151
+Mystic_Dev,brand-colors,String,Tenant,Berry,Berry,152
+Mystic_Dev,brand-colors,String,Tenant,Desert-Purple-Heather,Desert Purple Heather,153
+Mystic_Dev,brand-colors,String,Tenant,Glacial-Blue-Heather,Glacial Blue Heather,154
+Mystic_Dev,brand-colors,String,Tenant,Light-Gray-Heather,Light Gray Heather,155
+Mystic_Dev,brand-colors,String,Tenant,Kiwi,Kiwi,156
+Mystic_Dev,brand-colors,String,Tenant,Passion-Fruit,Passion Fruit,157
+Mystic_Dev,brand-colors,String,Tenant,Tangerine,Tangerine,158
+Mystic_Dev,brand-colors,String,Tenant,Blu-Shark,Blu Shark,159
+Mystic_Dev,brand-colors,String,Tenant,Mango,Mango,160
+Mystic_Dev,brand-colors,String,Tenant,Pink-Flambe,Pink Flambe,161
+Mystic_Dev,brand-colors,String,Tenant,Sunrise-Red,Sunrise Red,162
+Mystic_Dev,brand-colors,String,Tenant,Charcoal-Heather,Charcoal Heather,163
+Mystic_Dev,brand-colors,String,Tenant,Deep-Navy-Heather/Gray-Heather,Deep Navy Heather/Gray Heather,164
+Mystic_Dev,brand-colors,String,Tenant,Deep-Navy,Deep Navy,165
+Mystic_Dev,brand-colors,String,Tenant,Ash-Heather,Ash Heather,166
+Mystic_Dev,brand-colors,String,Tenant,Red/Gray,Red/Gray,167
+Mystic_Dev,brand-colors,String,Tenant,Desert-Purple,Desert Purple,168
+Mystic_Dev,brand-colors,String,Tenant,Charcoal/Bright-Orange,Charcoal/Bright Orange,169
+Mystic_Dev,brand-colors,String,Tenant,Medium-Gray-Heather/Green,Medium Gray Heather/Green,170
+Mystic_Dev,brand-colors,String,Tenant,Black/White,Black/White,171
+Mystic_Dev,brand-colors,String,Tenant,Silver,Silver,172
+Mystic_Dev,brand-colors,String,Tenant,Smartwool-Green,Smartwool Green,173
+Mystic_Dev,brand-colors,String,Tenant,Slate-Grey/Black,Slate Grey/Black,174
+Mystic_Dev,brand-colors,String,Tenant,Slate-Grey/Metal,Slate Grey/Metal,175
+Mystic_Dev,brand-colors,String,Tenant,Black/Black,Black/Black,176
+Mystic_Dev,brand-colors,String,Tenant,Champagne/Gray-Suede,Champagne/Gray Suede,177
+Mystic_Dev,brand-colors,String,Tenant,Champagne/Metal,Champagne/Metal,178
+Mystic_Dev,brand-colors,String,Tenant,Rose-Gold/Cararra-White,Rose Gold/Cararra White,179
+Mystic_Dev,brand-colors,String,Tenant,Amber,Amber,180
+Mystic_Dev,brand-colors,String,Tenant,Everglade,Everglade,181
+Mystic_Dev,brand-colors,String,Tenant,Limon,Limon,182
+Mystic_Dev,brand-colors,String,Tenant,Pomegranate,Pomegranate,183
+Mystic_Dev,brand-colors,String,Tenant,Feather-Grey,Feather Grey,184
+Mystic_Dev,brand-colors,String,Tenant,Mariner,Mariner,185
+Mystic_Dev,brand-colors,String,Tenant,Coral/Berry,Coral/Berry,186
+Mystic_Dev,brand-colors,String,Tenant,Turquoise/Caribe-Print,Turquoise/Caribe Print,187
+Mystic_Dev,brand-colors,String,Tenant,Fractal-Green/Blue,Fractal Green/Blue,188
+Mystic_Dev,brand-colors,String,Tenant,Blue/White/Red,Blue/White/Red,189
+Mystic_Dev,brand-colors,String,Tenant,Fern-Green,Fern Green,190
+Mystic_Dev,brand-colors,String,Tenant,Ebony,Ebony,191
+Mystic_Dev,brand-colors,String,Tenant,Strobe-Green,Strobe Green,192
+Mystic_Dev,brand-colors,String,Tenant,Clear,Clear,193
+Mystic_Dev,brand-colors,String,Tenant,Limestone-Camo,Limestone Camo,194
+Mystic_Dev,brand-colors,String,Tenant,Vanda-Orchid,Vanda Orchid,195
+Mystic_Dev,brand-colors,String,Tenant,Andes-Blue,Andes Blue,196
+Mystic_Dev,brand-colors,String,Tenant,Buffalo-Green,Buffalo Green,197
+Mystic_Dev,brand-colors,String,Tenant,Oaks-Brown,Oaks Brown,198
+Mystic_Dev,brand-colors,String,Tenant,Asphalt-Grey/Tnf-Black,Asphalt Grey/Tnf Black,199
+Mystic_Dev,brand-colors,String,Tenant,Shady-Blue/Urban-Navy,Shady Blue/Urban Navy,200
+Mystic_Dev,brand-colors,String,Tenant,Tnf-Black,Tnf Black,201
+Mystic_Dev,brand-colors,String,Tenant,Shark/Titanium,Shark/Titanium,202
+Mystic_Dev,brand-colors,String,Tenant,Manta-Grey,Manta Grey,203
+Mystic_Dev,brand-colors,String,Tenant,State-Orange,State Orange,204
+Mystic_Dev,brand-colors,String,Tenant,Mud,Mud,205
+Mystic_Dev,brand-colors,String,Tenant,Sapphire,Sapphire,206
+Mystic_Dev,brand-colors,String,Tenant,Spruce,Spruce,207
+Mystic_Dev,brand-colors,String,Tenant,Dark-Violet,Dark Violet,208
+Mystic_Dev,brand-colors,String,Tenant,Ruby,Ruby,209
+Mystic_Dev,brand-colors,String,Tenant,Cosmic-Blue-Heather,Cosmic Blue Heather,210
+Mystic_Dev,brand-colors,String,Tenant,Granite-Bluff-Tan,Granite Bluff Tan,211
+Mystic_Dev,brand-colors,String,Tenant,Raisin,Raisin,212
+Mystic_Dev,brand-colors,String,Tenant,Sandstorm,Sandstorm,213
+Mystic_Dev,brand-colors,String,Tenant,Zinc,Zinc,214
+Mystic_Dev,brand-colors,String,Tenant,Black/Dark-Grey-Heather,Black/Dark Grey Heather,215
+Mystic_Dev,brand-colors,String,Tenant,Cayenne-Red,Cayenne Red,216
+Mystic_Dev,brand-colors,String,Tenant,Odysseus,Odysseus,217
+Mystic_Dev,brand-colors,String,Tenant,Dune-Beige-Heather,Dune Beige Heather,218
+Mystic_Dev,brand-colors,String,Tenant,Cardinal-Red,Cardinal Red,219
+Mystic_Dev,brand-colors,String,Tenant,Mid-Grey,Mid Grey,220
+Mystic_Dev,brand-colors,String,Tenant,Zinnia-Orange/Black,Zinnia Orange/Black,221
+Mystic_Dev,brand-colors,String,Tenant,Ceylon-Blue/Dark-Sapphire,Ceylon Blue/Dark Sapphire,222
+Mystic_Dev,brand-colors,String,Tenant,Slate-Blue/Moroccan-Blue,Slate Blue/Moroccan Blue,223
+Mystic_Dev,brand-colors,String,Tenant,Deep-Olive,Deep Olive,224
+Mystic_Dev,brand-colors,String,Tenant,Alpine-Green,Alpine Green,225
+Mystic_Dev,brand-colors,String,Tenant,Light-Khaki,Light Khaki,226
+Mystic_Dev,brand-colors,String,Tenant,Tnf-Medium-Grey-Heather,Tnf Medium Grey Heather,227
+Mystic_Dev,brand-colors,String,Tenant,Urban-Navy,Urban Navy,228
+Mystic_Dev,brand-colors,String,Tenant,Asphalt-Grey,Asphalt Grey,229
+Mystic_Dev,brand-colors,String,Tenant,Moonlight-Ivory,Moonlight Ivory,230
+Mystic_Dev,brand-colors,String,Tenant,Metallic-Silver,Metallic Silver,231
+Mystic_Dev,brand-colors,String,Tenant,Amparo-Blue,Amparo Blue,232
+Mystic_Dev,brand-colors,String,Tenant,Bellflower-Purple,Bellflower Purple,233
+Mystic_Dev,brand-colors,String,Tenant,Honeysuckle-Pink,Honeysuckle Pink,234
+Mystic_Dev,brand-colors,String,Tenant,Carve-Coral,Carve Coral,235
+Mystic_Dev,brand-colors,String,Tenant,Galah-Green,Galah Green,236
+Mystic_Dev,brand-colors,String,Tenant,Galah-Green/Nouveau-Green,Galah Green/Nouveau Green,237
+Mystic_Dev,brand-colors,String,Tenant,Petoskey-Purple,Petoskey Purple,238
+Mystic_Dev,brand-colors,String,Tenant,Radar-Blue/Big-Sur-Blue,Radar Blue/Big Sur Blue,239
+Mystic_Dev,brand-colors,String,Tenant,Citrus-Ice,Citrus Ice,240
+Mystic_Dev,brand-colors,String,Tenant,Fuchsia,Fuchsia,241
+Mystic_Dev,brand-colors,String,Tenant,Green-Frost/Green-Garnet,Green Frost/Green Garnet,242
+Mystic_Dev,brand-colors,String,Tenant,Pop-Green,Pop Green,243
+Mystic_Dev,brand-colors,String,Tenant,Sea-Breeze/Arctic-Navy,Sea Breeze/Arctic Navy,244
+Mystic_Dev,brand-colors,String,Tenant,Wild-Rose,Wild Rose,245
+Mystic_Dev,brand-colors,String,Tenant,Dark-Purple,Dark Purple,246
+Mystic_Dev,brand-colors,String,Tenant,Gemstone,Gemstone,247
+Mystic_Dev,brand-colors,String,Tenant,Dusty-Denim,Dusty Denim,248
+Mystic_Dev,brand-colors,String,Tenant,Skyrise/Paradise,Skyrise/Paradise,249
+Mystic_Dev,brand-colors,String,Tenant,Urban-Army,Urban Army,250
+Mystic_Dev,brand-colors,String,Tenant,Persian-Red,Persian Red,251
+Mystic_Dev,brand-colors,String,Tenant,Neon-Berry,Neon Berry,252
+Mystic_Dev,brand-colors,String,Tenant,Sunny-Lime,Sunny Lime,253
+Mystic_Dev,brand-colors,String,Tenant,Marionberry,Marionberry,254
+Mystic_Dev,brand-colors,String,Tenant,Cornflower,Cornflower,255
+Mystic_Dev,brand-colors,String,Tenant,Elderberry,Elderberry,256
+Mystic_Dev,brand-colors,String,Tenant,Pacific-Blue/Titanium,Pacific Blue/Titanium,257
+Mystic_Dev,brand-colors,String,Tenant,Quiet-Shade/Asphalt,Quiet Shade/Asphalt,258
+Mystic_Dev,brand-colors,String,Tenant,Purple-Rain,Purple Rain,259
+Mystic_Dev,brand-colors,String,Tenant,Grape,Grape,260
+Mystic_Dev,brand-colors,String,Tenant,Watermelon,Watermelon,261
+Mystic_Dev,brand-colors,String,Tenant,Evening-Blue,Evening Blue,262
+Mystic_Dev,brand-colors,String,Tenant,Paisley-Purple,Paisley Purple,263
+Mystic_Dev,brand-colors,String,Tenant,Teal/Voltage,Teal/Voltage,264
+Mystic_Dev,brand-colors,String,Tenant,Night/Dusk,Night/Dusk,265
+Mystic_Dev,brand-colors,String,Tenant,Vintage/Earth,Vintage/Earth,266
+Mystic_Dev,brand-colors,String,Tenant,Greengables,Greengables,267
+Mystic_Dev,brand-colors,String,Tenant,Desert-Sage,Desert Sage,268
+Mystic_Dev,brand-colors,String,Tenant,Lake-Blue,Lake Blue,269
+Mystic_Dev,brand-colors,String,Tenant,Curfew,Curfew,270
+Mystic_Dev,brand-colors,String,Tenant,Jet-Black,Jet Black,271
+Mystic_Dev,brand-colors,String,Tenant,Hawthorn,Hawthorn,272
+Mystic_Dev,brand-colors,String,Tenant,Khaki,Khaki,273
+Mystic_Dev,brand-colors,String,Tenant,Pirate-Blue,Pirate Blue,274
+Mystic_Dev,brand-colors,String,Tenant,Peninsula,Peninsula,275
+Mystic_Dev,brand-colors,String,Tenant,Agave,Agave,276
+Mystic_Dev,brand-colors,String,Tenant,Caliente,Caliente,277
+Mystic_Dev,brand-colors,String,Tenant,Minky,Minky,278
+Mystic_Dev,brand-colors,String,Tenant,Suave-Mauve,Suave Mauve,279
+Mystic_Dev,brand-colors,String,Tenant,Black-Spacedye,Black Spacedye,280
+Mystic_Dev,brand-colors,String,Tenant,Bluebell-Spacedye,Bluebell Spacedye,281
+Mystic_Dev,brand-colors,String,Tenant,Sparrow-Spacedye,Sparrow Spacedye,282
+Mystic_Dev,brand-colors,String,Tenant,Atmosphere,Atmosphere,283
+Mystic_Dev,brand-colors,String,Tenant,Bone,Bone,284
+Mystic_Dev,brand-colors,String,Tenant,Tango,Tango,285
+Mystic_Dev,brand-colors,String,Tenant,Lupine,Lupine,286
+Mystic_Dev,brand-colors,String,Tenant,Tropez,Tropez,287
+Mystic_Dev,brand-colors,String,Tenant,Atmosfear,Atmosfear,288
+Mystic_Dev,brand-colors,String,Tenant,Cloudburst,Cloudburst,289
+Mystic_Dev,brand-colors,String,Tenant,Steam,Steam,290
+Mystic_Dev,brand-colors,String,Tenant,Sunset-Red/Carbon,Sunset Red/Carbon,291
+Mystic_Dev,brand-colors,String,Tenant,Tarn,Tarn,292
+Mystic_Dev,brand-colors,String,Tenant,Blue-Moon,Blue Moon,293
+Mystic_Dev,brand-colors,String,Tenant,Iron-Oxide,Iron Oxide,294
+Mystic_Dev,brand-colors,String,Tenant,Rhyolite,Rhyolite,295
+Mystic_Dev,brand-colors,String,Tenant,Forge-Grey,Forge Grey,296
+Mystic_Dev,brand-colors,String,Tenant,Dark-Ginger,Dark Ginger,297
+Mystic_Dev,brand-colors,String,Tenant,Hardwear-Navy,Hardwear Navy,298
+Mystic_Dev,brand-colors,String,Tenant,Shark,Shark,299
+Mystic_Dev,brand-colors,String,Tenant,Mystic-Black,Mystic Black,300
+Mystic_Dev,brand-colors,String,Tenant,Hunter/Grey-Heather,Hunter/Grey Heather,301
+Mystic_Dev,brand-colors,String,Tenant,Obsidian,Obsidian,302
+Mystic_Dev,brand-colors,String,Tenant,Cargo-Green,Cargo Green,303
+Mystic_Dev,brand-colors,String,Tenant,Moonrock,Moonrock,304
+Mystic_Dev,brand-colors,String,Tenant,Lt-Khaki,Lt Khaki,305
+Mystic_Dev,brand-colors,String,Tenant,Stone,Stone,306
+Mystic_Dev,brand-colors,String,Tenant,Tundra,Tundra,307
+Mystic_Dev,brand-colors,String,Tenant,Mood-Indigo,Mood Indigo,308
+Mystic_Dev,brand-colors,String,Tenant,Bluebell,Bluebell,309
+Mystic_Dev,brand-colors,String,Tenant,El-Cap-Khaki,El Cap Khaki,310
+Mystic_Dev,brand-colors,String,Tenant,Forge-Grey/Forest-Camo,Forge Grey/Forest Camo,311
+Mystic_Dev,brand-colors,String,Tenant,Fossill,Fossill,312
+Mystic_Dev,brand-colors,String,Tenant,Cerise/C-Street-Small,Cerise/C Street Small,313
+Mystic_Dev,brand-colors,String,Tenant,Superior-Blue,Superior Blue,314
+Mystic_Dev,brand-colors,String,Tenant,Marigold,Marigold,315
+Mystic_Dev,brand-colors,String,Tenant,Black-Camo,Black Camo,316
+Mystic_Dev,hat-style,String,Tenant,Beanie,Beanie,1
+Mystic_Dev,hat-style,String,Tenant,Winter-Hat,Winter Hat,2
+Mystic_Dev,hat-style,String,Tenant,Ball-Cap,Ball Cap,3
+Mystic_Dev,hat-style,String,Tenant,Rain-Hat,Rain Hat,4
+Mystic_Dev,hat-style,String,Tenant,Sun-Hat,Sun Hat,5
+Mystic_Dev,hat-style,String,Tenant,Headband,Headband,6
+Mystic_Dev,seasons,String,Tenant,2-Season,2 Season,1
+Mystic_Dev,seasons,String,Tenant,3---4-Season,3 - 4 Season,2
+Mystic_Dev,seasons,String,Tenant,3-Season,3 Season,3
+Mystic_Dev,seasons,String,Tenant,4-Season,4 Season,4
+Mystic_Dev,inseam-in,Number,Tenant,2,,1
+Mystic_Dev,inseam-in,Number,Tenant,3,,2
+Mystic_Dev,inseam-in,Number,Tenant,4,,3
+Mystic_Dev,inseam-in,Number,Tenant,5,,4
+Mystic_Dev,inseam-in,Number,Tenant,6,,5
+Mystic_Dev,inseam-in,Number,Tenant,7,,6
+Mystic_Dev,inseam-in,Number,Tenant,8,,7
+Mystic_Dev,inseam-in,Number,Tenant,9,,8
+Mystic_Dev,inseam-in,Number,Tenant,10,,9
+Mystic_Dev,inseam-in,Number,Tenant,11,,10
+Mystic_Dev,inseam-in,Number,Tenant,12,,11
+Mystic_Dev,inseam-in,Number,Tenant,14,,12
+Mystic_Dev,inseam-in,Number,Tenant,15,,13
+Mystic_Dev,inseam-in,Number,Tenant,17,,14
+Mystic_Dev,inseam-in,Number,Tenant,18,,15
+Mystic_Dev,inseam-in,Number,Tenant,19,,16
+Mystic_Dev,inseam-in,Number,Tenant,21,,17
+Mystic_Dev,inseam-in,Number,Tenant,22,,18
+Mystic_Dev,inseam-in,Number,Tenant,24,,19
+Mystic_Dev,inseam-in,Number,Tenant,26,,20
+Mystic_Dev,inseam-in,Number,Tenant,28,,21
+Mystic_Dev,inseam-in,Number,Tenant,29,,22
+Mystic_Dev,inseam-in,Number,Tenant,30,,23
+Mystic_Dev,inseam-in,Number,Tenant,31,,24
+Mystic_Dev,inseam-in,Number,Tenant,32,,25
+Mystic_Dev,inseam-in,Number,Tenant,33,,26
+Mystic_Dev,inseam-in,Number,Tenant,34,,27
+Mystic_Dev,inseam-in,Number,Tenant,36,,28
+Mystic_Dev,shoe-size,String,Tenant,2,2,1
+Mystic_Dev,shoe-size,String,Tenant,3,3,2
+Mystic_Dev,shoe-size,String,Tenant,4,4,3
+Mystic_Dev,shoe-size,String,Tenant,5,5,4
+Mystic_Dev,shoe-size,String,Tenant,5.5,5.5,5
+Mystic_Dev,shoe-size,String,Tenant,6,6,5
+Mystic_Dev,shoe-size,String,Tenant,7,7,6
+Mystic_Dev,shoe-size,String,Tenant,6.5,6.5,7
+Mystic_Dev,shoe-size,String,Tenant,8,8,7
+Mystic_Dev,shoe-size,String,Tenant,9,9,8
+Mystic_Dev,shoe-size,String,Tenant,10,10,9
+Mystic_Dev,shoe-size,String,Tenant,7.5,7.5,9
+Mystic_Dev,shoe-size,String,Tenant,11,11,10
+Mystic_Dev,shoe-size,String,Tenant,12,12,11
+Mystic_Dev,shoe-size,String,Tenant,8.5,8.5,11
+Mystic_Dev,shoe-size,String,Tenant,13,13,12
+Mystic_Dev,shoe-size,String,Tenant,14,14,13
+Mystic_Dev,shoe-size,String,Tenant,9.5,9.5,13
+Mystic_Dev,shoe-size,String,Tenant,15,15,14
+Mystic_Dev,shoe-size,String,Tenant,10.5,10.5,15
+Mystic_Dev,shoe-size,String,Tenant,16,16,15
+Mystic_Dev,shoe-size,String,Tenant,17,17,16
+Mystic_Dev,shoe-size,String,Tenant,11.5,11.5,17
+Mystic_Dev,shoe-size,String,Tenant,12.5,12.5,19
+Mystic_Dev,shoe-size,String,Tenant,Kids-8,Kids 8,25
+Mystic_Dev,shoe-size,String,Tenant,Kids-9,Kids 9,26
+Mystic_Dev,shoe-size,String,Tenant,Kids-10,Kids 10,27
+Mystic_Dev,shoe-size,String,Tenant,Kids-11,Kids 11,28
+Mystic_Dev,shoe-size,String,Tenant,Kids-12,Kids 12,29
+Mystic_Dev,shoe-size,String,Tenant,Kids-13,Kids 13,30
+Mystic_Dev,shoe-size,String,Tenant,Kids-1,Kids 1,31
+Mystic_Dev,shoe-size,String,Tenant,Kids-2,Kids 2,32
+Mystic_Dev,shoe-size,String,Tenant,Kids-3,Kids 3,33
+Mystic_Dev,shoe-size,String,Tenant,Kids-4,Kids 4,34
+Mystic_Dev,shoe-size,String,Tenant,Kids-5,Kids 5,35
+Mystic_Dev,shoe-size,String,Tenant,Kids-6,Kids 6,36
+Mystic_Dev,fabric-type,String,Tenant,Nylon-/-Nylon-Blend,Nylon / Nylon Blend,1
+Mystic_Dev,fabric-type,String,Tenant,Cotton-/-Cotton-Blend,Cotton / Cotton Blend,2
+Mystic_Dev,fabric-type,String,Tenant,Polyester-/-Polyester-Blend,Polyester / Polyester Blend,3
+Mystic_Dev,fabric-type,String,Tenant,Hemp-/-Linen-/-Blend,Hemp / Linen / Blend,4
+Mystic_Dev,fabric-type,String,Tenant,Polypropylene-/-Polypropylene-Blend,Polypropylene / Polypropylene Blend,5
+Mystic_Dev,fabric-type,String,Tenant,Wool-/-Wool-Blend,Wool / Wool Blend,6
+Mystic_Dev,fabric-type,String,Tenant,Synthetic-Blend,Synthetic Blend,7
+Mystic_Dev,fabric-type,String,Tenant,Merino-Wool,Merino Wool,8
+Mystic_Dev,fabric-type,String,Tenant,Acrylic,Acrylic,9
+Mystic_Dev,fabric-type,String,Tenant,Acrylic-/-Acrylic-Blend,Acrylic / Acrylic Blend,10
+Mystic_Dev,fabric-type,String,Tenant,Rayon-/-Rayon-Blend,Rayon / Rayon Blend,11
+Mystic_Dev,fabric-type,String,Tenant,Coolmax,Coolmax,12
+Mystic_Dev,fabric-type,String,Tenant,Polyester-Fleece,Polyester Fleece,13
+Mystic_Dev,fabric-type,String,Tenant,Nylon,Nylon,14
+Mystic_Dev,fabric-type,String,Tenant,Ripstop-Nylon,Ripstop Nylon,15
+Mystic_Dev,fabric-type,String,Tenant,Recycled-Ripstop-Nylon,Recycled Ripstop Nylon,16
+Mystic_Dev,fabric-type,String,Tenant,Ripstop-Polyester,Ripstop Polyester,17
+Mystic_Dev,fabric-type,String,Tenant,Recycled-Ripstop-Polyester,Recycled Ripstop Polyester,18
+Mystic_Dev,fabric-type,String,Tenant,Polyamide,Polyamide,19
+Mystic_Dev,fabric-type,String,Tenant,Polyester-Microfleece,Polyester Microfleece,20
+Mystic_Dev,insulation-type,String,Tenant,Down,Down,1
+Mystic_Dev,insulation-type,String,Tenant,Down-/-Synthetic-Blend,Down / Synthetic Blend,2
+Mystic_Dev,insulation-type,String,Tenant,Synthetic,Synthetic,3
+Mystic_Dev,insulation-type,String,Tenant,Air,Air,4
+Mystic_Dev,insulation-type,String,Tenant,Foam,Foam,5
+Mystic_Dev,faset-color,String,Tenant,Black,Black,1
+Mystic_Dev,faset-color,String,Tenant,White,White,2
+Mystic_Dev,faset-color,String,Tenant,Blue,Blue,3
+Mystic_Dev,faset-color,String,Tenant,Red,Red,4
+Mystic_Dev,faset-color,String,Tenant,Yellow,Yellow,5
+Mystic_Dev,faset-color,String,Tenant,Green,Green,6
+Mystic_Dev,faset-color,String,Tenant,Orange,Orange,7
+Mystic_Dev,faset-color,String,Tenant,Purple,Purple,8
+Mystic_Dev,faset-color,String,Tenant,Pink,Pink,9
+Mystic_Dev,faset-color,String,Tenant,Grey,Grey,10
+Mystic_Dev,faset-color,String,Tenant,Multi,Multi,11
+Mystic_Dev,faset-color,String,Tenant,Gunmetal-with-Summer-Fog,Gunmetal with Summer Fog,12
+Mystic_Dev,faset-color,String,Tenant,Blue-with-Black,Blue with Black,13
+Mystic_Dev,faset-color,String,Tenant,Athletic-Grey,Athletic Grey,14
+Mystic_Dev,faset-color,String,Tenant,Copper,Copper,15
+Mystic_Dev,faset-color,String,Tenant,Brown,Brown,16
+Mystic_Dev,faset-color,String,Tenant,Nutmeg,Nutmeg,17
+Mystic_Dev,faset-color,String,Tenant,ARGENTIC--SHIMMER-,ARGENTIC (SHIMMER),18
+Mystic_Dev,faset-color,String,Tenant,CAFE-AU-LAIT--MATTE-,CAFE AU LAIT (MATTE),19
+Mystic_Dev,faset-color,String,Tenant,GRAND-BLEU--SHIMMER-,GRAND BLEU (SHIMMER),20
+Mystic_Dev,faset-color,String,Tenant,TNF-Black,TNF Black,21
+Mystic_Dev,faset-color,String,Tenant,Zinc-Grey/TNF-Black,Zinc Grey/TNF Black,22
+Mystic_Dev,faset-color,String,Tenant,Asphalt-Grey/Silver-Reflective,Asphalt Grey/Silver Reflective,23
+Mystic_Dev,faset-color,String,Tenant,Brandy-Brown/Burnt-Ochre,Brandy Brown/Burnt Ochre,24
+Mystic_Dev,faset-color,String,Tenant,Chrome,Chrome,25
+Mystic_Dev,faset-color,String,Tenant,Ivory,Ivory,26
+Mystic_Dev,faset-color,String,Tenant,Navy-Blue,Navy Blue,27
+Mystic_Dev,faset-color,String,Tenant,Cognac,Cognac,28
+Mystic_Dev,faset-color,String,Tenant,Gray,Gray,29
+Mystic_Dev,faset-color,String,Tenant,Ampera,Ampera,30
+Mystic_Dev,faset-color,String,Tenant,Azusa,Azusa,31
+Mystic_Dev,faset-color,String,Tenant,Aruba,Aruba,32
+Mystic_Dev,faset-color,String,Tenant,Anata,Anata,33
+Mystic_Dev,faset-color,String,Tenant,Natural-Oak,Natural Oak,34
+Mystic_Dev,faset-color,String,Tenant,Acacia,Acacia,35
+Mystic_Dev,faset-color,String,Tenant,Anitque,Anitque,36
+Mystic_Dev,faset-color,String,Tenant,Natural-Brown,Natural Brown,37
+Mystic_Dev,faset-color,String,Tenant,Dark-Stonewash-Blue,Dark Stonewash Blue,38
+Mystic_Dev,faset-color,String,Tenant,Medium-Stonewash-Blue-,Medium Stonewash Blue ,39
+Mystic_Dev,faset-color,String,Tenant,Stone,Stone,40
+Mystic_Dev,size,String,Tenant,Small,S,1
+Mystic_Dev,size,String,Tenant,Medium,M,2
+Mystic_Dev,size,String,Tenant,Large,L,3
+Mystic_Dev,size,String,Tenant,Extra Large,XL,4
+Mystic_Dev,size,String,Tenant,XS/S,XS/S,5
+Mystic_Dev,size,String,Tenant,S/M,S/M,6
+Mystic_Dev,size,String,Tenant,M/L,M/L,7
+Mystic_Dev,size,String,Tenant,L/XL,L/XL,8
+Mystic_Dev,size,String,Tenant,Regular,Regular,9
+Mystic_Dev,size,String,Tenant,Short,Short,10
+Mystic_Dev,size,String,Tenant,Tall,Tall,11
+Mystic_Dev,size,String,Tenant,100-fl.-oz.,100 fl. oz.,12
+Mystic_Dev,size,String,Tenant,One-Size,One Size,13
+Mystic_Dev,size,String,Tenant,XS,XS,14
+Mystic_Dev,size,String,Tenant,XXL,XXL,15
+Mystic_Dev,size,String,Tenant,1.75-in,1.75 in,16
+Mystic_Dev,size,String,Tenant,2-in,2 in,17
+Mystic_Dev,size,String,Tenant,2.25-in,2.25 in,18
+Mystic_Dev,size,String,Tenant,2.5-in,2.5 in,19
+Mystic_Dev,size,String,Tenant,2.75-in,2.75 in,20
+Mystic_Dev,size,String,Tenant,3-in,3 in,21
+Mystic_Dev,size,String,Tenant,11-14-in,11-14 in,22
+Mystic_Dev,size,String,Tenant,14-20-in,14-20 in,23
+Mystic_Dev,size,String,Tenant,20-26-in,20-26 in,24
+Mystic_Dev,size,String,Tenant,50-90-lb,50-90 lb,25
+Mystic_Dev,size,String,Tenant,XXL/XXXL,XXL/XXXL,26
+Mystic_Dev,size,String,Tenant,XL/XXL,XL/XXL,27
+Mystic_Dev,size,String,Tenant,XXXL,XXXL,28
+Mystic_Dev,size,String,Tenant,XXS,XXS,29
+Mystic_Dev,size,String,Tenant,XXS--4---5-,XXS (4 - 5),30
+Mystic_Dev,size,String,Tenant,XS--6---7-,XS (6 - 7),31
+Mystic_Dev,size,String,Tenant,S--8-,S (8),32
+Mystic_Dev,size,String,Tenant,M--10---12-,M (10 - 12),33
+Mystic_Dev,size,String,Tenant,L--14---16-,L (14 - 16),34
+Mystic_Dev,size,String,Tenant,XL--18-,XL (18),35
+Mystic_Dev,size,String,Tenant,1,1,36
+Mystic_Dev,size,String,Tenant,2,2,37
+Mystic_Dev,size,String,Tenant,3,3,38
+Mystic_Dev,size,String,Tenant,4,4,39
+Mystic_Dev,size,String,Tenant,5,5,40
+Mystic_Dev,size,String,Tenant,6,6,41
+Mystic_Dev,size,String,Tenant,7,7,42
+Mystic_Dev,size,String,Tenant,8,8,43
+Mystic_Dev,size,String,Tenant,9,9,44
+Mystic_Dev,size,String,Tenant,10,10,45
+Mystic_Dev,size,String,Tenant,12,12,46
+Mystic_Dev,size,String,Tenant,28,28,47
+Mystic_Dev,size,String,Tenant,30,30,48
+Mystic_Dev,size,String,Tenant,31,31,49
+Mystic_Dev,size,String,Tenant,32,32,50
+Mystic_Dev,size,String,Tenant,33,33,51
+Mystic_Dev,size,String,Tenant,34,34,52
+Mystic_Dev,size,String,Tenant,35,35,53
+Mystic_Dev,size,String,Tenant,36,36,54
+Mystic_Dev,size,String,Tenant,38,38,55
+Mystic_Dev,size,String,Tenant,40,40,56
+Mystic_Dev,size,String,Tenant,42,42,57
+Mystic_Dev,size,String,Tenant,0,0,58
+Mystic_Dev,size,String,Tenant,14,14,59
+Mystic_Dev,size,String,Tenant,3.4-oz,3.4 oz,60
+Mystic_Dev,size,String,Tenant,6.7-oz,6.7 oz,61
+Mystic_Dev,size,String,Tenant,.5-oz,.5 oz,62
+Mystic_Dev,size,String,Tenant,1-Liter,1 Liter,63
+Mystic_Dev,size,String,Tenant,13.5-oz.,13.5 oz.,64
+Mystic_Dev,size,String,Tenant,Full/Queen,Full/Queen,65
+Mystic_Dev,size,String,Tenant,King,King,66
+Mystic_Dev,size,String,Tenant,750ml--single-,750ml (single),67
+Mystic_Dev,size,String,Tenant,1.75L--Single-,1.75L (Single),68
+Mystic_Dev,features,String,Tenant,Foldable,Foldable,1
+Mystic_Dev,features,String,Tenant,Sun-Protective-Fabric,Sun-Protective Fabric,2
+Mystic_Dev,features,String,Tenant,Quick-Drying,Quick Drying,3
+Mystic_Dev,features,String,Tenant,Side-Cargo-Pockets,Side Cargo Pockets,4
+Mystic_Dev,features,String,Tenant,Moisture-Wicking,Moisture Wicking,5
+Mystic_Dev,features,String,Tenant,Convertible,Convertible,6
+Mystic_Dev,features,String,Tenant,Packable,Packable,7
+Mystic_Dev,features,String,Tenant,Waterproof,Waterproof,8
+Mystic_Dev,features,String,Tenant,Insect-Repellent,Insect Repellent,9
+Mystic_Dev,features,String,Tenant,Built-in-LED-lighting,Built-in LED lighting,10
+Mystic_Dev,features,String,Tenant,Compass,Compass,11
+Mystic_Dev,features,String,Tenant,Tracks-Distance,Tracks Distance,12
+Mystic_Dev,features,String,Tenant,Tracks-Speed,Tracks Speed,13
+Mystic_Dev,features,String,Tenant,Tracks-Calories-Burned,Tracks Calories Burned,14
+Mystic_Dev,features,String,Tenant,Wireless-Sync,Wireless Sync,15
+Mystic_Dev,features,String,Tenant,Smart-Device-Notifications,Smart Device Notifications,16
+Mystic_Dev,features,String,Tenant,Tracks-Steps,Tracks Steps,17
+Mystic_Dev,features,String,Tenant,Cycling-Functions,Cycling Functions,18
+Mystic_Dev,features,String,Tenant,Sleep-Tracking,Sleep Tracking,19
+Mystic_Dev,features,String,Tenant,Swimming-Functions,Swimming Functions,20
+Mystic_Dev,features,String,Tenant,HRM-Included/Integrated,HRM Included/Integrated,21
+Mystic_Dev,features,String,Tenant,Programmable-Routes,Programmable Routes,22
+Mystic_Dev,features,String,Tenant,Lap-Timer,Lap Timer,23
+Mystic_Dev,features,String,Tenant,User-Replaceable-Battery,User Replaceable Battery,24
+Mystic_Dev,features,String,Tenant,Elevation-Gain/Loss,Elevation Gain/Loss,25
+Mystic_Dev,features,String,Tenant,New-Arrivals,New Arrivals,26
+Mystic_Dev,features,String,Tenant,Altimeter/Barometer-Lock,Altimeter/Barometer Lock,27
+Mystic_Dev,features,String,Tenant,Ascent/Descent-Rate,Ascent/Descent Rate,28
+Mystic_Dev,features,String,Tenant,Weather-Forecast,Weather Forecast,29
+Mystic_Dev,features,String,Tenant,Tide-Tracking,Tide Tracking,30
+Mystic_Dev,features,String,Tenant,Carry-On-Size,Carry-On Size,31
+Mystic_Dev,features,String,Tenant,Laptop-Compartment,Laptop Compartment,32
+Mystic_Dev,features,String,Tenant,Raincover-Included,Raincover Included,33
+Mystic_Dev,features,String,Tenant,Wide-Mouth-Opening,Wide-Mouth Opening,34
+Mystic_Dev,features,String,Tenant,Bite-Valve-Shut-Off-Switch,Bite Valve Shut-Off Switch,35
+Mystic_Dev,features,String,Tenant,iPad-/-Tablet-Compartment,iPad / Tablet Compartment,36
+Mystic_Dev,features,String,Tenant,BPA-Free,BPA Free,37
+Mystic_Dev,features,String,Tenant,Suspended-Mesh-Back-Panel,Suspended Mesh Back Panel,38
+Mystic_Dev,features,String,Tenant,Quick-Disconnect-Tubing,Quick Disconnect Tubing,39
+Mystic_Dev,features,String,Tenant,Adjustable-Torso,Adjustable Torso,40
+Mystic_Dev,features,String,Tenant,Removable-Daypack,Removable Daypack,41
+Mystic_Dev,features,String,Tenant,Avalanche-Airbag,Avalanche Airbag,42
+Mystic_Dev,features,String,Tenant,Compression-Straps,Compression Straps,43
+Mystic_Dev,features,String,Tenant,RFID-Blocking,RFID Blocking,44
+Mystic_Dev,features,String,Tenant,Made-in-USA,Made in USA,45
+Mystic_Dev,features,String,Tenant,Biodegradable,Biodegradable,46
+Mystic_Dev,features,String,Tenant,Battery-Included,Battery Included,47
+Mystic_Dev,features,String,Tenant,GPS,GPS,48
+Mystic_Dev,features,String,Tenant,Camp-Bathroom,Camp Bathroom,49
+Mystic_Dev,features,String,Tenant,Can-Be-Resoled,Can Be Resoled,50
+Mystic_Dev,features,String,Tenant,Vegan,Vegan,51
+Mystic_Dev,features,String,Tenant,Insulated,Insulated,52
+Mystic_Dev,features,String,Tenant,Thumbholes,Thumbholes,53
+Mystic_Dev,features,String,Tenant,Water-Resistant-Down,Water-Resistant Down,54
+Mystic_Dev,features,String,Tenant,2-Way-Zipper,2-Way Zipper,55
+Mystic_Dev,features,String,Tenant,3-in-1-Jacket,3-in-1 Jacket,56
+Mystic_Dev,features,String,Tenant,FlashDry,FlashDry,57
+Mystic_Dev,features,String,Tenant,Omni-Shade,Omni-Shade,58
+Mystic_Dev,features,String,Tenant,Omni-Shield,Omni-Shield,59
+Mystic_Dev,features,String,Tenant,Omni-Wick,Omni-Wick,60
+Mystic_Dev,features,String,Tenant,Teflon,Teflon,61
+Mystic_Dev,features,String,Tenant,bluesign,bluesign,62
+Mystic_Dev,features,String,Tenant,Inner-Liner,Inner Liner,63
+Mystic_Dev,features,String,Tenant,Auto-Ignition,Auto Ignition,64
+Mystic_Dev,features,String,Tenant,Shoulder-Straps,Shoulder Straps,65
+Mystic_Dev,features,String,Tenant,Hipbelt,Hipbelt,66
+Mystic_Dev,features,String,Tenant,Collapsible,Collapsible,67
+Mystic_Dev,features,String,Tenant,Field-Cleanable,Field Cleanable,68
+Mystic_Dev,features,String,Tenant,Hood,Hood,69
+Mystic_Dev,features,String,Tenant,Pit-Zips,Pit Zips,70
+Mystic_Dev,features,String,Tenant,Goose-Down,Goose Down,71
+Mystic_Dev,features,String,Tenant,Quilted-Polyester,Quilted Polyester,72
+Mystic_Dev,features,String,Tenant,Windproof,Windproof,73
+Mystic_Dev,features,String,Tenant,Contains-recycled-materials,Contains recycled materials,74
+Mystic_Dev,weight,String,Tenant,0-to-0.49,0 to 0.49,1
+Mystic_Dev,weight,String,Tenant,0.5-to-0.99,0.5 to 0.99,2
+Mystic_Dev,weight,String,Tenant,1-to-1.49,1 to 1.49,3
+Mystic_Dev,weight,String,Tenant,1.50-to-2.99,1.50 to 2.99,4
+Mystic_Dev,weight,String,Tenant,3-to-4.99,3 to 4.99,5
+Mystic_Dev,weight,String,Tenant,5-to-7.99,5 to 7.99,6
+Mystic_Dev,weight,String,Tenant,8-to-11.99,8 to 11.99,7
+Mystic_Dev,weight,String,Tenant,12-to-19.99,12 to 19.99,8
+Mystic_Dev,weight,String,Tenant,20-to-29.99,20 to 29.99,9
+Mystic_Dev,back-length,String,Tenant,Waist-length,Waist-length,1
+Mystic_Dev,back-length,String,Tenant,Hip-length,Hip-length,2
+Mystic_Dev,back-length,String,Tenant,Thigh-length,Thigh-length,3
+Mystic_Dev,season,String,Tenant,Winter,Winter,1
+Mystic_Dev,season,String,Tenant,Fall,Fall,2
+Mystic_Dev,season,String,Tenant,Spring,Spring,3
+Mystic_Dev,season,String,Tenant,Summer,Summer,4
+Mystic_Dev,role,String,Tenant,Mem,Mem,1
+Mystic_Dev,role,String,Tenant,AdvClub,AdvClub,2
+Mystic_Dev,role,String,Tenant,Unapproved,Unapproved,3
+Mystic_Dev,role,String,Tenant,wholesaler,wholesaler,4
+Mystic_Dev,product-warranty,String,Tenant,1-Year-Warranty,1 Year Warranty,1
+Mystic_Dev,product-warranty,String,Tenant,2-Year-Warranty,2 Year Warranty,2
+Mystic_Dev,product-warranty,String,Tenant,5-Year-Warranty,5 Year Warranty,3
+Mystic_Dev,article-season,String,Tenant,Winter,Winter,1
+Mystic_Dev,article-season,String,Tenant,Spring,Spring,2
+Mystic_Dev,article-season,String,Tenant,Fall,Fall,3
+Mystic_Dev,article-season,String,Tenant,Summer,Summer,4

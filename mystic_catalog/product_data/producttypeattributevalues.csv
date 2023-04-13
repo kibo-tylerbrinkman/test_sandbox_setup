@@ -1,0 +1,851 @@
+﻿MasterCatalogName,ProductType,AttributeCode,Type,VocabularyValue
+Mystic_Dev,Base,frame-color,Property,Alpine-Glow
+Mystic_Dev,Base,frame-color,Property,Black-Coffee-Tort
+Mystic_Dev,Base,frame-color,Property,Coffee
+Mystic_Dev,Base,frame-color,Property,Black
+Mystic_Dev,Base,frame-color,Property,Flat-Black
+Mystic_Dev,Base,frame-color,Property,Bronze-Decay
+Mystic_Dev,Base,frame-color,Property,Matte-Blue
+Mystic_Dev,Base,frame-color,Property,Matte-Camo
+Mystic_Dev,Base,frame-color,Property,Matte-Camo-Green
+Mystic_Dev,Base,frame-color,Property,Matte-Fern
+Mystic_Dev,Base,frame-color,Property,Purple
+Mystic_Dev,Base,frame-color,Property,Satin-Black
+Mystic_Dev,Base,frame-color,Property,Silver/Gunmetal
+Mystic_Dev,Base,frame-color,Property,White
+Mystic_Dev,Base,availability,Property,24hrs
+Mystic_Dev,Base,availability,Property,24-48hrs
+Mystic_Dev,Base,availability,Property,24-72hrs
+Mystic_Dev,Base,availability,Property,1-2days
+Mystic_Dev,Base,availability,Property,2-3days
+Mystic_Dev,Base,availability,Property,1-2weeks
+Mystic_Dev,Base,availability,Property,2-3weeks
+Mystic_Dev,Base,availability,Property,2-4weeks
+Mystic_Dev,Base,availability,Property,4-6weeks
+Mystic_Dev,Base,season,Property,Fall
+Mystic_Dev,Base,season,Property,Spring
+Mystic_Dev,Base,season,Property,Summer
+Mystic_Dev,Base,season,Property,Winter
+Mystic_Dev,Base,role,Property,AdvClub
+Mystic_Dev,Base,role,Property,Mem
+Mystic_Dev,Base,role,Property,Unapproved
+Mystic_Dev,Base,role,Property,wholesaler
+Mystic_Dev,Base,best-use,Property,Backcountry-Skiing
+Mystic_Dev,Base,best-use,Property,Backpacking
+Mystic_Dev,Base,best-use,Property,Casual
+Mystic_Dev,Base,best-use,Property,Bike-Commuting
+Mystic_Dev,Base,best-use,Property,Camping
+Mystic_Dev,Base,best-use,Property,Climbing
+Mystic_Dev,Base,best-use,Property,Cross-Country-Skiing
+Mystic_Dev,Base,best-use,Property,Downhill-Skiing
+Mystic_Dev,Base,best-use,Property,Fitness
+Mystic_Dev,Base,best-use,Property,Fishing
+Mystic_Dev,Base,best-use,Property,Hiking
+Mystic_Dev,Base,best-use,Property,Ice-Climbing
+Mystic_Dev,Base,best-use,Property,Mountaineering
+Mystic_Dev,Base,best-use,Property,Multisport
+Mystic_Dev,Base,best-use,Property,Rock-Climbing
+Mystic_Dev,Base,best-use,Property,Running
+Mystic_Dev,Base,best-use,Property,Snowboarding
+Mystic_Dev,Base,best-use,Property,Snowshoeing
+Mystic_Dev,Base,best-use,Property,Snowsports
+Mystic_Dev,Base,best-use,Property,Trail-Running
+Mystic_Dev,Base,best-use,Property,Travel
+Mystic_Dev,Base,best-use,Property,Urban-Cycling
+Mystic_Dev,Base,best-use,Property,Yoga
+Mystic_Dev,Base,best-use,Property,Watersports
+Mystic_Dev,Base,brand,Property,Arc-teryx
+Mystic_Dev,Base,brand,Property,ALPS-Moutaineering
+Mystic_Dev,Base,brand,Property,Ahnu
+Mystic_Dev,Base,brand,Property,Asolo
+Mystic_Dev,Base,brand,Property,Black-Diamond
+Mystic_Dev,Base,brand,Property,Bolle
+Mystic_Dev,Base,brand,Property,Biolite
+Mystic_Dev,Base,brand,Property,Big-Agnes
+Mystic_Dev,Base,brand,Property,CamelBak
+Mystic_Dev,Base,brand,Property,Camp-Chef
+Mystic_Dev,Base,brand,Property,Chaco
+Mystic_Dev,Base,brand,Property,Chaos
+Mystic_Dev,Base,brand,Property,Coleman
+Mystic_Dev,Base,brand,Property,Columbia
+Mystic_Dev,Base,brand,Property,Craghoppers
+Mystic_Dev,Base,brand,Property,Cycle-Dog
+Mystic_Dev,Base,brand,Property,Deuter
+Mystic_Dev,Base,brand,Property,ENO
+Mystic_Dev,Base,brand,Property,Esbit
+Mystic_Dev,Base,brand,Property,Eureka
+Mystic_Dev,Base,brand,Property,Eagle-Creek
+Mystic_Dev,Base,brand,Property,ExOfficio
+Mystic_Dev,Base,brand,Property,Exped
+Mystic_Dev,Base,brand,Property,Five-Ten
+Mystic_Dev,Base,brand,Property,Garmin
+Mystic_Dev,Base,brand,Property,GoalZero
+Mystic_Dev,Base,brand,Property,GoPro
+Mystic_Dev,Base,brand,Property,Gordini
+Mystic_Dev,Base,brand,Property,Gerber
+Mystic_Dev,Base,brand,Property,GoSun
+Mystic_Dev,Base,brand,Property,Gregory
+Mystic_Dev,Base,brand,Property,Haglofs
+Mystic_Dev,Base,brand,Property,Helly-Hansen
+Mystic_Dev,Base,brand,Property,HENNESSY
+Mystic_Dev,Base,brand,Property,Hi-Tec
+Mystic_Dev,Base,brand,Property,HOKA-ONE-ONE
+Mystic_Dev,Base,brand,Property,Icebreaker
+Mystic_Dev,Base,brand,Property,JanSport
+Mystic_Dev,Base,brand,Property,Jetboil
+Mystic_Dev,Base,brand,Property,Julbo
+Mystic_Dev,Base,brand,Property,Kammock
+Mystic_Dev,Base,brand,Property,KEEN
+Mystic_Dev,Base,brand,Property,Kelty
+Mystic_Dev,Base,brand,Property,KUHL
+Mystic_Dev,Base,brand,Property,La-Sportiva
+Mystic_Dev,Base,brand,Property,Lorpen
+Mystic_Dev,Base,brand,Property,Lowa
+Mystic_Dev,Base,brand,Property,Lucy
+Mystic_Dev,Base,brand,Property,MONTANE
+Mystic_Dev,Base,brand,Property,Mammut
+Mystic_Dev,Base,brand,Property,MTI
+Mystic_Dev,Base,brand,Property,Merrell
+Mystic_Dev,Base,brand,Property,MSR
+Mystic_Dev,Base,brand,Property,Mountain-Hardwear
+Mystic_Dev,Base,brand,Property,Manzella
+Mystic_Dev,Base,brand,Property,Mountain-Khakis
+Mystic_Dev,Base,brand,Property,Marmot
+Mystic_Dev,Base,brand,Property,Mtn-Hardwear
+Mystic_Dev,Base,brand,Property,Mystic
+Mystic_Dev,Base,brand,Property,Nau
+Mystic_Dev,Base,brand,Property,NEMO
+Mystic_Dev,Base,brand,Property,Oakley
+Mystic_Dev,Base,brand,Property,NRS
+Mystic_Dev,Base,brand,Property,Oboz
+Mystic_Dev,Base,brand,Property,Osprey
+Mystic_Dev,Base,brand,Property,Outdoor-Research
+Mystic_Dev,Base,brand,Property,Patagonia
+Mystic_Dev,Base,brand,Property,Pearl-Izumi
+Mystic_Dev,Base,brand,Property,Platypus
+Mystic_Dev,Base,brand,Property,prAna
+Mystic_Dev,Base,brand,Property,Primus
+Mystic_Dev,Base,brand,Property,Reflekt
+Mystic_Dev,Base,brand,Property,Roark-Revival
+Mystic_Dev,Base,brand,Property,Royal-Robbins
+Mystic_Dev,Base,brand,Property,Ruffwear
+Mystic_Dev,Base,brand,Property,Salomon
+Mystic_Dev,Base,brand,Property,SealLine
+Mystic_Dev,Base,brand,Property,Sea-to-Summit
+Mystic_Dev,Base,brand,Property,Serengeti
+Mystic_Dev,Base,brand,Property,Seattle-Sports
+Mystic_Dev,Base,brand,Property,Sherpa-Adventure-Gear
+Mystic_Dev,Base,brand,Property,Sierra-Designs
+Mystic_Dev,Base,brand,Property,Smith
+Mystic_Dev,Base,brand,Property,Smartwool
+Mystic_Dev,Base,brand,Property,Snow-Peak
+Mystic_Dev,Base,brand,Property,Solo-Stove
+Mystic_Dev,Base,brand,Property,Suunto
+Mystic_Dev,Base,brand,Property,Tentsile
+Mystic_Dev,Base,brand,Property,The-North-Face
+Mystic_Dev,Base,brand,Property,Tifosi
+Mystic_Dev,Base,brand,Property,Timberland
+Mystic_Dev,Base,brand,Property,Thorlo
+Mystic_Dev,Base,brand,Property,Toad-Co
+Mystic_Dev,Base,brand,Property,Vasque
+Mystic_Dev,Base,brand,Property,White-Sierra
+Mystic_Dev,Base,brand,Property,Timbuk2
+Mystic_Dev,Base,availability,Property,24hrs
+Mystic_Dev,Base,availability,Property,Available-for-Same-Day-In-Store-Pickup
+Mystic_Dev,Base,availability,Property,24-48hrs
+Mystic_Dev,Base,availability,Property,24-72hrs
+Mystic_Dev,Base,availability,Property,1-2days
+Mystic_Dev,Base,availability,Property,2-3days
+Mystic_Dev,Base,availability,Property,1-2weeks
+Mystic_Dev,Base,availability,Property,2-3weeks
+Mystic_Dev,Base,availability,Property,2-4weeks
+Mystic_Dev,Base,availability,Property,4-6weeks
+Mystic_Dev,Hats,brand-colors,Property,Big-Sur-Blue
+Mystic_Dev,Hats,brand-colors,Property,Black
+Mystic_Dev,Hats,brand-colors,Property,Cairn
+Mystic_Dev,Hats,brand-colors,Property,Crocus
+Mystic_Dev,Hats,brand-colors,Property,Desert-Camo
+Mystic_Dev,Hats,brand-colors,Property,Dusk
+Mystic_Dev,Hats,brand-colors,Property,Dusty-Rose
+Mystic_Dev,Hats,brand-colors,Property,Earth
+Mystic_Dev,Hats,brand-colors,Property,Liberty
+Mystic_Dev,Hats,brand-colors,Property,Nightshade
+Mystic_Dev,Hats,brand-colors,Property,Pelican
+Mystic_Dev,Hats,brand-colors,Property,Pewter
+Mystic_Dev,Hats,brand-colors,Property,Sangria
+Mystic_Dev,Hats,brand-colors,Property,Seaport
+Mystic_Dev,Hats,brand-colors,Property,Slate
+Mystic_Dev,Hats,brand-colors,Property,Sunglow
+Mystic_Dev,Hats,brand-colors,Property,Wheat
+Mystic_Dev,Hats,brand-colors,Property,White
+Mystic_Dev,Hats,fabric-type,Property,Acrylic
+Mystic_Dev,Hats,fabric-type,Property,Cotton-/-Cotton-Blend
+Mystic_Dev,Hats,fabric-type,Property,Hemp-/-Linen-/-Blend
+Mystic_Dev,Hats,fabric-type,Property,Merino-Wool
+Mystic_Dev,Hats,fabric-type,Property,Nylon-/-Nylon-Blend
+Mystic_Dev,Hats,fabric-type,Property,Polyester-/-Polyester-Blend
+Mystic_Dev,Hats,fabric-type,Property,Polypropylene-/-Polypropylene-Blend
+Mystic_Dev,Hats,fabric-type,Property,Synthetic-Blend
+Mystic_Dev,Hats,fabric-type,Property,Wool-/-Wool-Blend
+Mystic_Dev,Hats,faset-color,Property,Black
+Mystic_Dev,Hats,faset-color,Property,Blue
+Mystic_Dev,Hats,faset-color,Property,Green
+Mystic_Dev,Hats,faset-color,Property,Grey
+Mystic_Dev,Hats,faset-color,Property,Multi
+Mystic_Dev,Hats,faset-color,Property,Orange
+Mystic_Dev,Hats,faset-color,Property,Pink
+Mystic_Dev,Hats,faset-color,Property,Purple
+Mystic_Dev,Hats,faset-color,Property,Red
+Mystic_Dev,Hats,faset-color,Property,White
+Mystic_Dev,Hats,faset-color,Property,Yellow
+Mystic_Dev,Hats,gender,Property,Men-s
+Mystic_Dev,Hats,gender,Property,Unisex
+Mystic_Dev,Hats,gender,Property,Women-s
+Mystic_Dev,Hats,size,Property,One-Size
+Mystic_Dev,Hats,hat-style,Property,Ball-Cap
+Mystic_Dev,Hats,hat-style,Property,Beanie
+Mystic_Dev,Hats,hat-style,Property,Headband
+Mystic_Dev,Hats,hat-style,Property,Rain-Hat
+Mystic_Dev,Hats,hat-style,Property,Sun-Hat
+Mystic_Dev,Hats,hat-style,Property,Winter-Hat
+Mystic_Dev,Hats,brand-colors,Option,Anthracite-Black
+Mystic_Dev,Hats,brand-colors,Option,Aquamarine
+Mystic_Dev,Hats,brand-colors,Option,Avatar-Blue
+Mystic_Dev,Hats,brand-colors,Option,Big-Sur-Blue
+Mystic_Dev,Hats,brand-colors,Option,Black
+Mystic_Dev,Hats,brand-colors,Option,Black/Lime-Punch
+Mystic_Dev,Hats,brand-colors,Option,Blue
+Mystic_Dev,Hats,brand-colors,Option,Blue-Night
+Mystic_Dev,Hats,brand-colors,Option,Cairn
+Mystic_Dev,Hats,brand-colors,Option,Charcoal/Graphite
+Mystic_Dev,Hats,brand-colors,Option,Chromatic-Yellow
+Mystic_Dev,Hats,brand-colors,Option,Cranberry/Aubergine
+Mystic_Dev,Hats,brand-colors,Option,Crocus
+Mystic_Dev,Hats,brand-colors,Option,Dark-Raspberry
+Mystic_Dev,Hats,brand-colors,Option,Dark-Shadow
+Mystic_Dev,Hats,brand-colors,Option,Deep-Sea-Blue
+Mystic_Dev,Hats,brand-colors,Option,Desert-Camo
+Mystic_Dev,Hats,brand-colors,Option,Diablo
+Mystic_Dev,Hats,brand-colors,Option,Dijon-Brown/Urban-Navy
+Mystic_Dev,Hats,brand-colors,Option,Dusk
+Mystic_Dev,Hats,brand-colors,Option,Dusty-Rose
+Mystic_Dev,Hats,brand-colors,Option,Earth
+Mystic_Dev,Hats,brand-colors,Option,Fire
+Mystic_Dev,Hats,brand-colors,Option,Flame-Orange
+Mystic_Dev,Hats,brand-colors,Option,Graphite/Bright-Fuchsia
+Mystic_Dev,Hats,brand-colors,Option,Green
+Mystic_Dev,Hats,brand-colors,Option,Green-Apple
+Mystic_Dev,Hats,brand-colors,Option,Grey-Tar/Forge-Grey
+Mystic_Dev,Hats,brand-colors,Option,Gunmetal
+Mystic_Dev,Hats,brand-colors,Option,Gunmetal/Lime-Punch
+Mystic_Dev,Hats,brand-colors,Option,Liberty
+Mystic_Dev,Hats,brand-colors,Option,Magma
+Mystic_Dev,Hats,brand-colors,Option,Maple-Orange
+Mystic_Dev,Hats,brand-colors,Option,Marine-Blue
+Mystic_Dev,Hats,brand-colors,Option,Midnight-Blue
+Mystic_Dev,Hats,brand-colors,Option,Molten-Lava
+Mystic_Dev,Hats,brand-colors,Option,Mystic-Magenta
+Mystic_Dev,Hats,brand-colors,Option,Nightshade
+Mystic_Dev,Hats,brand-colors,Option,Nightsky
+Mystic_Dev,Hats,brand-colors,Option,Onyx-Black
+Mystic_Dev,Hats,brand-colors,Option,Orange
+Mystic_Dev,Hats,brand-colors,Option,Pelican
+Mystic_Dev,Hats,brand-colors,Option,Pewter
+Mystic_Dev,Hats,brand-colors,Option,Pine-Green
+Mystic_Dev,Hats,brand-colors,Option,Pink-Lotus
+Mystic_Dev,Hats,brand-colors,Option,Poincianaornge/Asphltgry
+Mystic_Dev,Hats,brand-colors,Option,Purple
+Mystic_Dev,Hats,brand-colors,Option,Red
+Mystic_Dev,Hats,brand-colors,Option,Sangria
+Mystic_Dev,Hats,brand-colors,Option,Seaport
+Mystic_Dev,Hats,brand-colors,Option,Shadow-Black/Berry
+Mystic_Dev,Hats,brand-colors,Option,Sky--Blue
+Mystic_Dev,Hats,brand-colors,Option,Slate
+Mystic_Dev,Hats,brand-colors,Option,Solar-Flare-Orange
+Mystic_Dev,Hats,brand-colors,Option,Storm-Black
+Mystic_Dev,Hats,brand-colors,Option,Stormcloud-Grey
+Mystic_Dev,Hats,brand-colors,Option,Teal
+Mystic_Dev,Hats,brand-colors,Option,Thunderhead-Grey
+Mystic_Dev,Hats,brand-colors,Option,Titanium
+Mystic_Dev,Hats,brand-colors,Option,True-Teal
+Mystic_Dev,Hats,brand-colors,Option,Waxed-Field-Brown
+Mystic_Dev,Hats,brand-colors,Option,Wheat
+Mystic_Dev,Hats,brand-colors,Option,White
+Mystic_Dev,Hats,brand-colors,Option,Sunglow
+Mystic_Dev,Hats,brand-colors,Option,Yellow
+Mystic_Dev,Hats,size,Option,Large
+Mystic_Dev,Hats,size,Option,L/XL
+Mystic_Dev,Hats,size,Option,Medium
+Mystic_Dev,Hats,size,Option,M/L
+Mystic_Dev,Hats,size,Option,One-Size
+Mystic_Dev,Hats,size,Option,Regular
+Mystic_Dev,Hats,size,Option,Small
+Mystic_Dev,Hats,size,Option,S/M
+Mystic_Dev,Hats,size,Option,Short
+Mystic_Dev,Hats,size,Option,Tall
+Mystic_Dev,Hats,size,Option,Extra Large
+Mystic_Dev,Hats,size,Option,XS
+Mystic_Dev,Hats,size,Option,XS/S
+Mystic_Dev,Hats,size,Option,100-fl.-oz.
+Mystic_Dev,Hiking Footwear,gender,Property,Boys-
+Mystic_Dev,Hiking Footwear,gender,Property,Girls-
+Mystic_Dev,Hiking Footwear,gender,Property,Kids-
+Mystic_Dev,Hiking Footwear,gender,Property,Men-s
+Mystic_Dev,Hiking Footwear,gender,Property,Unisex
+Mystic_Dev,Hiking Footwear,gender,Property,Women-s
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Ash-Stone
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Autobahn/Black/Tomato-Red
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Barley
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Bitter-Root
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Black
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Black/Burnt-Olive
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Black/Cajun
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Black/Greenery
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Brown
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Brown/Green
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Brown/Mint
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Brown/Taupe/Clementine
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Burnt-Maple
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Castlerock/Tender-Shoots
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Cocoa-Brown
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Dark-Gray/Navy
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Dark-Olive
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Dark-Purple/Purple-Sage
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Dark-Sand/Cendre
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Dark-Shadow-Grey/Green
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Glacier
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Granite
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Graphite
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Graphite/Black
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Gray/Mint
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Gray/Wild-Dove
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Green
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Griffin-Grey/Shady-Blue
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Honeysuckle-Pink/Tnf-White
+Mystic_Dev,Hiking Footwear,brand-colors,Property,India-Ink/Macaw
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Leaf
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Magenta
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Magnet/Cerise-Pink
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Midnight-Navy/Tawny-Olive
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Olive
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Radiance/Goat
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Raven/Burnt-Ochre
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Royal-Lilac/Adventurine
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Sesame
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Silver-Birch/Canteen
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Silver/Gray
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Slate-Brown/Red-Mahogany
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Slate/Caramel
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Sodalite
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Steel-Gray/Hydrangea
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Tnf-Black/Tnf-White
+Mystic_Dev,Hiking Footwear,brand-colors,Property,Warm-Grey/Beetroot/Salmon
+Mystic_Dev,Hiking Footwear,footwear-height,Property,Ankle
+Mystic_Dev,Hiking Footwear,footwear-height,Property,Over-the-ankle
+Mystic_Dev,Hiking Footwear,features,Property,Can-Be-Resoled
+Mystic_Dev,Hiking Footwear,features,Property,Made-in-USA
+Mystic_Dev,Hiking Footwear,features,Property,New-Arrivals
+Mystic_Dev,Hiking Footwear,features,Property,Vegan
+Mystic_Dev,Hiking Footwear,features,Property,Waterproof
+Mystic_Dev,Hiking Footwear,footwear-closure,Property,Lace-up
+Mystic_Dev,Hiking Footwear,footwear-closure,Property,Single-pull-Lace
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Ash-Stone
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Autobahn/Black/Tomato-Red
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Barley
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Bitter-Root
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Black
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Black/Burnt-Olive
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Black/Cajun
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Black/Greenery
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Brown
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Brown/Green
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Brown/Mint
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Brown/Taupe/Clementine
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Burnt-Maple
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Castlerock/Tender-Shoots
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Cocoa-Brown
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Dark-Gray/Navy
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Dark-Olive
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Dark-Purple/Purple-Sage
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Dark-Sand/Cendre
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Dark-Shadow-Grey/Green
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Glacier
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Granite
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Graphite
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Graphite/Black
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Gray/Mint
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Gray/Wild-Dove
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Green
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Griffin-Grey/Shady-Blue
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Honeysuckle-Pink/Tnf-White
+Mystic_Dev,Hiking Footwear,brand-colors,Option,India-Ink/Macaw
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Leaf
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Magenta
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Magnet/Cerise-Pink
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Midnight-Navy/Tawny-Olive
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Olive
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Radiance/Goat
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Raven/Burnt-Ochre
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Royal-Lilac/Adventurine
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Sesame
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Silver-Birch/Canteen
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Silver/Gray
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Slate-Brown/Red-Mahogany
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Slate/Caramel
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Sodalite
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Steel-Gray/Hydrangea
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Tnf-Black/Tnf-White
+Mystic_Dev,Hiking Footwear,brand-colors,Option,Warm-Grey/Beetroot/Salmon
+Mystic_Dev,Hiking Footwear,shoe-size,Option,5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,5.5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,6
+Mystic_Dev,Hiking Footwear,shoe-size,Option,6.5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,7
+Mystic_Dev,Hiking Footwear,shoe-size,Option,7.5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,8
+Mystic_Dev,Hiking Footwear,shoe-size,Option,8.5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,9
+Mystic_Dev,Hiking Footwear,shoe-size,Option,9.5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,10
+Mystic_Dev,Hiking Footwear,shoe-size,Option,10.5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,11
+Mystic_Dev,Hiking Footwear,shoe-size,Option,11.5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,12
+Mystic_Dev,Hiking Footwear,shoe-size,Option,12.5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,13
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-1
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-2
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-3
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-4
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-5
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-6
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-8
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-9
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-10
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-11
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-12
+Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-13
+Mystic_Dev,Hammock,seasons,Property,2-Season
+Mystic_Dev,Hammock,seasons,Property,3-Season
+Mystic_Dev,Hammock,seasons,Property,4-Season
+Mystic_Dev,Hammock,seasons,Property,3---4-Season
+Mystic_Dev,Hammock,material,Property,Cotton
+Mystic_Dev,Hammock,material,Property,High-tenacity-nylon
+Mystic_Dev,Hammock,material,Property,Nylon
+Mystic_Dev,Hammock,material,Property,Nylon/closed-cell-foam
+Mystic_Dev,Hammock,material,Property,Nylon/mesh
+Mystic_Dev,Hammock,material,Property,Polyester/multidensity-foam
+Mystic_Dev,Hammock,material,Property,Polyurethane-coated-nylon
+Mystic_Dev,Hammock,material,Property,Ripstop-high-density-polyethylene--HDPE-
+Mystic_Dev,Hammock,material,Property,Ripstop-nylon
+Mystic_Dev,Hammock,material,Property,Ripstop-nylon/nylon-oxford
+Mystic_Dev,Hammock,material,Property,100-denier-nylon
+Mystic_Dev,Hammock,material,Property,150-denier-nylon
+Mystic_Dev,Hammock,material,Property,600-denier-polyester
+Mystic_Dev,Hammock,material,Property,300-denier-ripstop-polyester
+Mystic_Dev,Hammock,features,Property,Convertible
+Mystic_Dev,Hammock,features,Property,Built-in-LED-lighting
+Mystic_Dev,Hammock,features,Property,Packable
+Mystic_Dev,Hammock,features,Property,Quick-Drying
+Mystic_Dev,Hammock,sleeping-capacity,Property,1-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,2-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,3-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,4-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,5-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,6-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,8--Person
+Mystic_Dev,Hammock,weight,Property,0-to-0.49
+Mystic_Dev,Hammock,weight,Property,1-to-1.49
+Mystic_Dev,Hammock,weight,Property,3-to-4.99
+Mystic_Dev,Hammock,weight,Property,0.5-to-0.99
+Mystic_Dev,Hammock,weight,Property,5-to-7.99
+Mystic_Dev,Hammock,weight,Property,8-to-11.99
+Mystic_Dev,Hammock,weight,Property,1.50-to-2.99
+Mystic_Dev,Hammock,weight,Property,20-to-29.99
+Mystic_Dev,Hammock,brand-colors,Option,Anthracite-Black
+Mystic_Dev,Hammock,brand-colors,Option,Aquamarine
+Mystic_Dev,Hammock,brand-colors,Option,Ash-Stone
+Mystic_Dev,Hammock,brand-colors,Option,Autobahn/Black/Tomato-Red
+Mystic_Dev,Hammock,brand-colors,Option,Avatar-Blue
+Mystic_Dev,Hammock,brand-colors,Option,Barley
+Mystic_Dev,Hammock,brand-colors,Option,Bay-Blue
+Mystic_Dev,Hammock,brand-colors,Option,Big-Sur-Blue
+Mystic_Dev,Hammock,brand-colors,Option,Bitter-Root
+Mystic_Dev,Hammock,brand-colors,Option,Black
+Mystic_Dev,Hammock,brand-colors,Option,Black/Burnt-Olive
+Mystic_Dev,Hammock,brand-colors,Option,Black/Cajun
+Mystic_Dev,Hammock,brand-colors,Option,Black/Greenery
+Mystic_Dev,Hammock,brand-colors,Option,Black/Lime-Punch
+Mystic_Dev,Hammock,brand-colors,Option,Blue
+Mystic_Dev,Hammock,brand-colors,Option,Blue-Mountains
+Mystic_Dev,Hammock,brand-colors,Option,Blue-Night
+Mystic_Dev,Hammock,brand-colors,Option,Blue-Petal
+Mystic_Dev,Hammock,brand-colors,Option,Blue-Spring
+Mystic_Dev,Hammock,brand-colors,Option,Brown
+Mystic_Dev,Hammock,brand-colors,Option,Brown/Green
+Mystic_Dev,Hammock,brand-colors,Option,Brown/Mint
+Mystic_Dev,Hammock,brand-colors,Option,Brown/Taupe/Clementine
+Mystic_Dev,Hammock,brand-colors,Option,Burnt-Maple
+Mystic_Dev,Hammock,brand-colors,Option,Cairn
+Mystic_Dev,Hammock,brand-colors,Option,Camper-Arrows
+Mystic_Dev,Hammock,brand-colors,Option,Cardinal-Red/Asphalt-Grey
+Mystic_Dev,Hammock,brand-colors,Option,Castlerock/Tender-Shoots
+Mystic_Dev,Hammock,brand-colors,Option,Charcoal
+Mystic_Dev,Hammock,brand-colors,Option,Charcoal/Graphite
+Mystic_Dev,Hammock,brand-colors,Option,Chromatic-Yellow
+Mystic_Dev,Hammock,brand-colors,Option,Cocoa-Brown
+Mystic_Dev,Hammock,brand-colors,Option,Cranberry/Aubergine
+Mystic_Dev,Hammock,brand-colors,Option,Crocus
+Mystic_Dev,Hammock,brand-colors,Option,Dark-Gray/Navy
+Mystic_Dev,Hammock,brand-colors,Option,Dark-Olive
+Mystic_Dev,Hammock,brand-colors,Option,Dark-Purple/Purple-Sage
+Mystic_Dev,Hammock,brand-colors,Option,Dark-Raspberry
+Mystic_Dev,Hammock,brand-colors,Option,Dark-Sand/Cendre
+Mystic_Dev,Hammock,brand-colors,Option,Dark-Shadow
+Mystic_Dev,Hammock,brand-colors,Option,Dark-Shadow-Grey/Green
+Mystic_Dev,Hammock,brand-colors,Option,Deep-Sea-Blue
+Mystic_Dev,Hammock,brand-colors,Option,Desert-Camo
+Mystic_Dev,Hammock,brand-colors,Option,Diablo
+Mystic_Dev,Hammock,brand-colors,Option,Dijon-Brown/Urban-Navy
+Mystic_Dev,Hammock,brand-colors,Option,Dusk
+Mystic_Dev,Hammock,brand-colors,Option,Dusty-Rose
+Mystic_Dev,Hammock,brand-colors,Option,Earth
+Mystic_Dev,Hammock,brand-colors,Option,Fire
+Mystic_Dev,Hammock,brand-colors,Option,Flame-Orange
+Mystic_Dev,Hammock,brand-colors,Option,Glacier
+Mystic_Dev,Hammock,brand-colors,Option,Glacier-Grey
+Mystic_Dev,Hammock,brand-colors,Option,Granite
+Mystic_Dev,Hammock,brand-colors,Option,Granite-Gray
+Mystic_Dev,Hammock,brand-colors,Option,Graphite
+Mystic_Dev,Hammock,brand-colors,Option,Graphite/Black
+Mystic_Dev,Hammock,brand-colors,Option,Graphite/Bright-Fuchsia
+Mystic_Dev,Hammock,brand-colors,Option,Gray/Mint
+Mystic_Dev,Hammock,brand-colors,Option,Gray/Plum
+Mystic_Dev,Hammock,brand-colors,Option,Gray/Wild-Dove
+Mystic_Dev,Hammock,brand-colors,Option,Green
+Mystic_Dev,Hammock,brand-colors,Option,Green-Apple
+Mystic_Dev,Hammock,brand-colors,Option,Green-Lime/Steel
+Mystic_Dev,Hammock,brand-colors,Option,Grey
+Mystic_Dev,Hammock,brand-colors,Option,Grey-Ice
+Mystic_Dev,Hammock,brand-colors,Option,Grey/Putty/Apple-Green
+Mystic_Dev,Hammock,brand-colors,Option,Grey-Tar/Forge-Grey
+Mystic_Dev,Hammock,brand-colors,Option,Griffin-Grey/Shady-Blue
+Mystic_Dev,Hammock,brand-colors,Option,Gunmetal
+Mystic_Dev,Hammock,brand-colors,Option,Gunmetal/Lime-Punch
+Mystic_Dev,Hammock,brand-colors,Option,Honeysuckle-Pink/Tnf-White
+Mystic_Dev,Hammock,brand-colors,Option,India-Ink/Macaw
+Mystic_Dev,Hammock,brand-colors,Option,Leaf
+Mystic_Dev,Hammock,brand-colors,Option,Liberty
+Mystic_Dev,Hammock,brand-colors,Option,Magenta
+Mystic_Dev,Hammock,brand-colors,Option,Magma
+Mystic_Dev,Hammock,brand-colors,Option,Magnet/Cerise-Pink
+Mystic_Dev,Hammock,brand-colors,Option,Maple-Orange
+Mystic_Dev,Hammock,brand-colors,Option,Marine-Blue
+Mystic_Dev,Hammock,brand-colors,Option,Meadow-Green
+Mystic_Dev,Hammock,brand-colors,Option,Midnight-Blue
+Mystic_Dev,Hammock,brand-colors,Option,Midnight-Navy/Tawny-Olive
+Mystic_Dev,Hammock,brand-colors,Option,Molten-Lava
+Mystic_Dev,Hammock,brand-colors,Option,Monument-Valley
+Mystic_Dev,Hammock,brand-colors,Option,Moss-Green
+Mystic_Dev,Hammock,brand-colors,Option,Mystic-Magenta
+Mystic_Dev,Hammock,brand-colors,Option,Navy
+Mystic_Dev,Hammock,brand-colors,Option,Night/Ultraviolet
+Mystic_Dev,Hammock,brand-colors,Option,Nightshade
+Mystic_Dev,Hammock,brand-colors,Option,Nightsky
+Mystic_Dev,Hammock,brand-colors,Option,Olive
+Mystic_Dev,Hammock,brand-colors,Option,Onyx-Black
+Mystic_Dev,Hammock,brand-colors,Option,Orange
+Mystic_Dev,Hammock,brand-colors,Option,Orange/Cream
+Mystic_Dev,Hammock,brand-colors,Option,Orange/Fog
+Mystic_Dev,Hammock,brand-colors,Option,Orchid
+Mystic_Dev,Hammock,brand-colors,Option,Pacific-Blue
+Mystic_Dev,Hammock,brand-colors,Option,Pelican
+Mystic_Dev,Hammock,brand-colors,Option,Pewter
+Mystic_Dev,Hammock,brand-colors,Option,Pine-Green
+Mystic_Dev,Hammock,brand-colors,Option,Pink-Lotus
+Mystic_Dev,Hammock,brand-colors,Option,Poincianaornge/Asphltgry
+Mystic_Dev,Hammock,brand-colors,Option,Purple
+Mystic_Dev,Hammock,brand-colors,Option,Radiance/Goat
+Mystic_Dev,Hammock,brand-colors,Option,Raven/Burnt-Ochre
+Mystic_Dev,Hammock,brand-colors,Option,Red
+Mystic_Dev,Hammock,brand-colors,Option,Red-Currant
+Mystic_Dev,Hammock,brand-colors,Option,Royal-Lilac/Adventurine
+Mystic_Dev,Hammock,brand-colors,Option,Sangria
+Mystic_Dev,Hammock,brand-colors,Option,Seaport
+Mystic_Dev,Hammock,brand-colors,Option,Sesame
+Mystic_Dev,Hammock,brand-colors,Option,Shadow-Black/Berry
+Mystic_Dev,Hammock,brand-colors,Option,Silver-Birch/Canteen
+Mystic_Dev,Hammock,brand-colors,Option,Silver/Gray
+Mystic_Dev,Hammock,brand-colors,Option,Silver-Gray-Heather
+Mystic_Dev,Hammock,brand-colors,Option,Sky--Blue
+Mystic_Dev,Hammock,brand-colors,Option,Slate
+Mystic_Dev,Hammock,brand-colors,Option,Slate-Brown/Red-Mahogany
+Mystic_Dev,Hammock,brand-colors,Option,Slate/Caramel
+Mystic_Dev,Hammock,brand-colors,Option,Sockeye-Red
+Mystic_Dev,Hammock,brand-colors,Option,Sodalite
+Mystic_Dev,Hammock,brand-colors,Option,Solar-Flare-Orange
+Mystic_Dev,Hammock,brand-colors,Option,Steel-Gray/Hydrangea
+Mystic_Dev,Hammock,brand-colors,Option,Storm-Black
+Mystic_Dev,Hammock,brand-colors,Option,Stormcloud-Grey
+Mystic_Dev,Hammock,brand-colors,Option,Sunglow
+Mystic_Dev,Hammock,brand-colors,Option,Sunset-Orange/Gray
+Mystic_Dev,Hammock,brand-colors,Option,Tan/Yellow
+Mystic_Dev,Hammock,brand-colors,Option,Teal
+Mystic_Dev,Hammock,brand-colors,Option,Terra-Cotta/Silver
+Mystic_Dev,Hammock,brand-colors,Option,Thunderhead-Grey
+Mystic_Dev,Hammock,brand-colors,Option,Titanium
+Mystic_Dev,Hammock,brand-colors,Option,Tnf-Black/Tnf-White
+Mystic_Dev,Hammock,brand-colors,Option,True-Teal
+Mystic_Dev,Hammock,brand-colors,Option,Twilight-Gray
+Mystic_Dev,Hammock,brand-colors,Option,Walnut
+Mystic_Dev,Hammock,brand-colors,Option,Warm-Grey/Beetroot/Salmon
+Mystic_Dev,Hammock,brand-colors,Option,Wave-Orange
+Mystic_Dev,Hammock,brand-colors,Option,Waxed-Field-Brown
+Mystic_Dev,Hammock,brand-colors,Option,Wheat
+Mystic_Dev,Hammock,brand-colors,Option,White
+Mystic_Dev,Hammock,brand-colors,Option,Yellow
+Mystic_Dev,Hammock,brand-colors,Option,Yellow/Red
+Mystic_Dev,Hiking Jacket,features,Property,Insect-Repellent
+Mystic_Dev,Hiking Jacket,features,Property,Insulated
+Mystic_Dev,Hiking Jacket,features,Property,Moisture-Wicking
+Mystic_Dev,Hiking Jacket,features,Property,New-Arrivals
+Mystic_Dev,Hiking Jacket,features,Property,Packable
+Mystic_Dev,Hiking Jacket,features,Property,Quick-Drying
+Mystic_Dev,Hiking Jacket,features,Property,Thumbholes
+Mystic_Dev,Hiking Jacket,features,Property,Water-Resistant-Down
+Mystic_Dev,Hiking Jacket,features,Property,Waterproof
+Mystic_Dev,Hiking Jacket,features,Property,2-Way-Zipper
+Mystic_Dev,Hiking Jacket,features,Property,3-in-1-Jacket
+Mystic_Dev,Hiking Jacket,features,Property,Hood
+Mystic_Dev,Hiking Jacket,features,Property,Goose-Down
+Mystic_Dev,Hiking Jacket,features,Property,Pit-Zips
+Mystic_Dev,Hiking Jacket,features,Property,Windproof
+Mystic_Dev,Hiking Jacket,gender,Property,Boys-
+Mystic_Dev,Hiking Jacket,gender,Property,Girls-
+Mystic_Dev,Hiking Jacket,gender,Property,Kids-
+Mystic_Dev,Hiking Jacket,gender,Property,Men-s
+Mystic_Dev,Hiking Jacket,gender,Property,Unisex
+Mystic_Dev,Hiking Jacket,gender,Property,Women-s
+Mystic_Dev,Hiking Jacket,insulation-type,Property,Down
+Mystic_Dev,Hiking Jacket,insulation-type,Property,Down-/-Synthetic-Blend
+Mystic_Dev,Hiking Jacket,insulation-type,Property,Synthetic
+Mystic_Dev,Hiking Jacket,back-length,Property,Hip-length
+Mystic_Dev,Hiking Jacket,back-length,Property,Thigh-length
+Mystic_Dev,Hiking Jacket,back-length,Property,Waist-length
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Cotton-/-Cotton-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Nylon-/-Nylon-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-/-Polyester-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polypropylene-/-Polypropylene-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Synthetic-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Nylon
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyamide
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-Fleece
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-Microfleece
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Recycled-Ripstop-Nylon
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Recycled-Ripstop-Polyester
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Ripstop-Nylon
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Ripstop-Polyester
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Andes-Blue
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Alpine-Green
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Asphalt-Grey/Tnf-Black
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Big-Sur-Blue
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Amparo-Blue
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Buffalo-Green
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Manta-Grey
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Oaks-Brown
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Shady-Blue/Urban-Navy
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Shark/Titanium
+Mystic_Dev,Hiking Jacket,brand-colors,Option,State-Orange
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Asphalt-Grey
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Tnf-Black
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Cardinal-Red
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Dune-Beige-Heather
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Mid-Grey
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Zinnia-Orange/Black
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Bellflower-Purple
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Black
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Carve-Coral
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Ceylon-Blue/Dark-Sapphire
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Charcoal
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Citrus-Ice
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Cornflower
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Dark-Purple
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Deep-Olive
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Dusty-Denim
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Elderberry
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Evening-Blue
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Fuchsia
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Galah-Green
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Galah-Green/Nouveau-Green
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Gemstone
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Grape
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Green-Frost/Green-Garnet
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Honeysuckle-Pink
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Honeysuckle-Pink/Tnf-White
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Light-Khaki
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Marine-Blue
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Marionberry
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Metallic-Silver
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Moonlight-Ivory
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Neon-Berry
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Night/Ultraviolet
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Olive
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Pacific-Blue/Titanium
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Paisley-Purple
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Persian-Red
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Petoskey-Purple
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Pop-Green
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Purple-Rain
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Quiet-Shade/Asphalt
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Radar-Blue/Big-Sur-Blue
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Sea-Breeze/Arctic-Navy
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Skyrise/Paradise
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Slate-Blue/Moroccan-Blue
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Sunny-Lime
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Teal/Voltage
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Tnf-Medium-Grey-Heather
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Urban-Army
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Urban-Navy
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Watermelon
+Mystic_Dev,Hiking Jacket,brand-colors,Option,Wild-Rose
+Mystic_Dev,Hiking Jacket,size,Option,XXS
+Mystic_Dev,Hiking Jacket,size,Option,XS
+Mystic_Dev,Hiking Jacket,size,Option,Small
+Mystic_Dev,Hiking Jacket,size,Option,Medium
+Mystic_Dev,Hiking Jacket,size,Option,Large
+Mystic_Dev,Hiking Jacket,size,Option,Extra Large
+Mystic_Dev,Hiking Jacket,size,Option,XXL
+Mystic_Dev,Hiking Jacket,size,Option,XXXL
+Mystic_Dev,Hiking Jacket,size,Option,1
+Mystic_Dev,Hiking Jacket,size,Option,2
+Mystic_Dev,Hiking Jacket,size,Option,3
+Mystic_Dev,Hiking Jacket,size,Option,4
+Mystic_Dev,Hiking Jacket,size,Option,5
+Mystic_Dev,Hiking Jacket,size,Option,6
+Mystic_Dev,Hiking Jacket,size,Option,7
+Mystic_Dev,Hiking Jacket,size,Option,8
+Mystic_Dev,Hiking Jacket,size,Option,9
+Mystic_Dev,Hiking Jacket,size,Option,10
+Mystic_Dev,Hiking Jacket,size,Option,12
+Mystic_Dev,Hiking Jacket,size,Option,XXS--4---5-
+Mystic_Dev,Hiking Jacket,size,Option,XS--6---7-
+Mystic_Dev,Hiking Jacket,size,Option,S--8-
+Mystic_Dev,Hiking Jacket,size,Option,M--10---12-
+Mystic_Dev,Hiking Jacket,size,Option,L--14---16-
+Mystic_Dev,Hiking Jacket,size,Option,XL--18-
+Mystic_Dev,Hiking Shorts,inseam-in,Property,4
+Mystic_Dev,Hiking Shorts,inseam-in,Property,5
+Mystic_Dev,Hiking Shorts,inseam-in,Property,7
+Mystic_Dev,Hiking Shorts,inseam-in,Property,8
+Mystic_Dev,Hiking Shorts,inseam-in,Property,9
+Mystic_Dev,Hiking Shorts,inseam-in,Property,10
+Mystic_Dev,Hiking Shorts,inseam-in,Property,11
+Mystic_Dev,Hiking Shorts,inseam-in,Property,12
+Mystic_Dev,Hiking Shorts,brand-colors,Property,Dusk
+Mystic_Dev,Hiking Shorts,brand-colors,Property,Pewter
+Mystic_Dev,Hiking Shorts,brand-colors,Property,Fossill
+Mystic_Dev,Hiking Shorts,brand-colors,Property,Asphalt-Grey
+Mystic_Dev,Hiking Shorts,brand-colors,Property,Black
+Mystic_Dev,Hiking Shorts,brand-colors,Property,Charcoal
+Mystic_Dev,Hiking Shorts,brand-colors,Property,Dark-Khaki
+Mystic_Dev,Hiking Shorts,brand-colors,Property,Raisin
+Mystic_Dev,Hiking Shorts,fabric-type,Property,Cotton-/-Cotton-Blend
+Mystic_Dev,Hiking Shorts,fabric-type,Property,Nylon-/-Nylon-Blend
+Mystic_Dev,Hiking Shorts,fabric-type,Property,Polyester-/-Polyester-Blend
+Mystic_Dev,Hiking Shorts,features,Property,Inner-Liner
+Mystic_Dev,Hiking Shorts,features,Property,Moisture-Wicking
+Mystic_Dev,Hiking Shorts,features,Property,Quick-Drying
+Mystic_Dev,Hiking Shorts,features,Property,Side-Cargo-Pockets
+Mystic_Dev,Hiking Shorts,features,Property,Sun-Protective-Fabric
+Mystic_Dev,Hiking Shorts,features,Property,Contains-recycled-materials
+Mystic_Dev,Hiking Shorts,features,Property,Made-in-USA
+Mystic_Dev,Hiking Shorts,features,Property,New-Arrivals
+Mystic_Dev,Hiking Shorts,gender,Property,Boys-
+Mystic_Dev,Hiking Shorts,gender,Property,Girls-
+Mystic_Dev,Hiking Shorts,gender,Property,Kids-
+Mystic_Dev,Hiking Shorts,gender,Property,Men-s
+Mystic_Dev,Hiking Shorts,gender,Property,Unisex
+Mystic_Dev,Hiking Shorts,gender,Property,Women-s
+Mystic_Dev,Hiking Shorts,size,Property,32
+Mystic_Dev,Hiking Shorts,size,Property,6
+Mystic_Dev,Hiking Shorts,size,Property,XXS
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Asphalt-Grey
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Black
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Bluebell
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Cerise/C-Street-Small
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Charcoal
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Dark-Khaki
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Dusk
+Mystic_Dev,Hiking Shorts,brand-colors,Option,El-Cap-Khaki
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Forge-Grey/Forest-Camo
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Fossill
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Mood-Indigo
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Pewter
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Superior-Blue
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Tundra
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Manta-Grey
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Raisin
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Sandstorm
+Mystic_Dev,Hiking Shorts,brand-colors,Option,Zinc
+Mystic_Dev,Hiking Shorts,size,Option,0
+Mystic_Dev,Hiking Shorts,size,Option,2
+Mystic_Dev,Hiking Shorts,size,Option,4
+Mystic_Dev,Hiking Shorts,size,Option,6
+Mystic_Dev,Hiking Shorts,size,Option,8
+Mystic_Dev,Hiking Shorts,size,Option,10
+Mystic_Dev,Hiking Shorts,size,Option,12
+Mystic_Dev,Hiking Shorts,size,Option,14
+Mystic_Dev,Hiking Shorts,size,Option,28
+Mystic_Dev,Hiking Shorts,size,Option,30
+Mystic_Dev,Hiking Shorts,size,Option,31
+Mystic_Dev,Hiking Shorts,size,Option,32
+Mystic_Dev,Hiking Shorts,size,Option,33
+Mystic_Dev,Hiking Shorts,size,Option,34
+Mystic_Dev,Hiking Shorts,size,Option,35
+Mystic_Dev,Hiking Shorts,size,Option,36
+Mystic_Dev,Hiking Shorts,size,Option,38
+Mystic_Dev,Hiking Shorts,size,Option,40
+Mystic_Dev,Hiking Shorts,size,Option,42
+Mystic_Dev,Hiking Shorts,size,Option,XXS
+Mystic_Dev,Hiking Shorts,size,Option,XS
+Mystic_Dev,Hiking Shorts,size,Option,Small
+Mystic_Dev,Hiking Shorts,size,Option,Medium
+Mystic_Dev,Hiking Shorts,size,Option,Large
+Mystic_Dev,Hiking Shorts,size,Option,Extra Large
+Mystic_Dev,Hiking Shorts,size,Option,XXL
+Mystic_Dev,Hiking Vest,insulation-type,Property,Down
+Mystic_Dev,Hiking Vest,insulation-type,Property,Down-/-Synthetic-Blend
+Mystic_Dev,Hiking Vest,insulation-type,Property,Synthetic
+Mystic_Dev,Hiking Vest,features,Property,Insulated
+Mystic_Dev,Hiking Vest,features,Property,Packable
+Mystic_Dev,Hiking Vest,features,Property,Water-Resistant-Down
+Mystic_Dev,Hiking Vest,fill-power,Property,551-to-650
+Mystic_Dev,Hiking Vest,fill-power,Property,651-to-750
+Mystic_Dev,Hiking Vest,fill-power,Property,751-to-850
+Mystic_Dev,Hiking Vest,gender,Property,Boys-
+Mystic_Dev,Hiking Vest,gender,Property,Girls-
+Mystic_Dev,Hiking Vest,gender,Property,Kids-
+Mystic_Dev,Hiking Vest,gender,Property,Men-s
+Mystic_Dev,Hiking Vest,gender,Property,Unisex
+Mystic_Dev,Hiking Vest,gender,Property,Women-s
+Mystic_Dev,Boot,faset-color,Option,Black
+Mystic_Dev,Boot,faset-color,Option,Brown
+Mystic_Dev,Boot,faset-color,Option,Copper
+Mystic_Dev,Boot,faset-color,Option,Nutmeg
+Mystic_Dev,Boot,size,Option,9
+Mystic_Dev,Article,article-season,Property,Fall
+Mystic_Dev,Article,article-season,Property,Spring
+Mystic_Dev,Article,article-season,Property,Summer
+Mystic_Dev,Article,article-season,Property,Winter
+Mystic_Dev,Backpack,size,Option,Large
+Mystic_Dev,Backpack,size,Option,Medium
+Mystic_Dev,Backpack,size,Option,Small
+Mystic_Dev,Backpack,size,Option,Extra Large
+Mystic_Dev,Backpack,faset-color,Option,Asphalt-Grey/Silver-Reflective
+Mystic_Dev,Backpack,faset-color,Option,Black
+Mystic_Dev,Backpack,faset-color,Option,Brandy-Brown/Burnt-Ochre
+Mystic_Dev,Backpack,faset-color,Option,TNF-Black
+Mystic_Dev,Backpack,faset-color,Option,Zinc-Grey/TNF-Black
+Mystic_Dev,Backpack,product-warranty,Extra,1-Year-Warranty
+Mystic_Dev,Backpack,product-warranty,Extra,2-Year-Warranty
+Mystic_Dev,Backpack,product-warranty,Extra,5-Year-Warranty

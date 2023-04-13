@@ -1,0 +1,70 @@
+{
+	"1000": {
+			 "email": "andy.kales@example.com",
+			 "firstName": "Andy",
+			 "lastNameOrSurname": "Kales",
+			 "phoneNumbers": {
+				 "home": "1231231234"
+			 },
+			 "address": {
+				 "address1": "1234 Fake St",
+				 "cityOrTown": "Dallas",
+				 "stateOrProvince": "TX",
+				 "postalOrZipCode": "75204",
+				 "countryCode": "US",
+				 "addressType": "Residential",
+				 "isValidated": false
+			 }
+	},
+	"1001": {
+			 "email": "andres.camino@example.com",
+			 "firstName": "Andres",
+			 "lastNameOrSurname": "Camino",
+			 "phoneNumbers": {
+				 "home": "1231231234"
+			 },
+			 "address": {
+				 "address1": "1234 Fake St",
+				 "cityOrTown": "Houston",
+				 "stateOrProvince": "TX",
+				 "postalOrZipCode": "77095",
+				 "countryCode": "US",
+				 "addressType": "Residential",
+				 "isValidated": false
+			 }
+	},
+	"1002": {
+			 "email": "kara.lemon@example.com",
+			 "firstName": "Kara",
+			 "lastNameOrSurname": "Limón",
+			 "phoneNumbers": {
+				 "home": "1231231234"
+			 },
+			 "address": {
+				 "address1": "1234 Fake St",
+				 "cityOrTown": "Dallas",
+				 "stateOrProvince": "TX",
+				 "postalOrZipCode": "72702",
+				 "countryCode": "US",
+				 "addressType": "Residential",
+				 "isValidated": false
+			 }
+	},
+	"1003": {
+			 "email": "kara.lemon@example.com",
+			 "firstName": "Kara",
+			 "lastNameOrSurname": "Limón",
+			 "phoneNumbers": {
+				 "home": "1231231234"
+			 },
+			 "address": {
+				 "address1": "1234 Fake St",
+				 "cityOrTown": "Dallas",
+				 "stateOrProvince": "TX",
+				 "postalOrZipCode": "72702",
+				 "countryCode": "US",
+				 "addressType": "Residential",
+				 "isValidated": false
+			 }
+		 }
+}

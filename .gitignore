@@ -1,0 +1,11 @@
+node_modules/
+.vscode
+.DS_STORE
+**/*.png
+**/*.jpeg
+**/*.webp
+**/*.jpg
+
+tmp
+
+mozu.config.json
