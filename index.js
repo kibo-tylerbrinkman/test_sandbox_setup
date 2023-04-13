@@ -8,7 +8,7 @@ async function main(){
 
 	console.log(`Loading catalog data into ${name}`)
 
-	await generateImportZip(name)
+	//await generateImportZip(name)
 
 
 	console.log('Import files generated.....')
@@ -16,7 +16,7 @@ async function main(){
 	//await importJob()
 	console.log('Product data loaded....')
 
-	await loadSiteData()
+	//await loadSiteData()
 
 	console.log('Site data loaded....')
 	console.log('Indexing catalog....')

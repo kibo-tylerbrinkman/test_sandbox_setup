@@ -18,7 +18,6 @@ async function importJob(){
      });
      
      console.log(fileResponse)
-     return
 
      console.log({
           "id": fileResponse.id,
