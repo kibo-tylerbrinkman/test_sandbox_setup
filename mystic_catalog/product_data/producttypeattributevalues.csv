@@ -1,4 +1,14 @@
-﻿MasterCatalogName,ProductType,AttributeCode,Type,VocabularyValue
+MasterCatalogName,ProductType,AttributeCode,Type,VocabularyValue
+Mystic_Dev,Base,availability,Property,24hrs
+Mystic_Dev,Base,availability,Property,24-48hrs
+Mystic_Dev,Base,availability,Property,24-72hrs
+Mystic_Dev,Base,availability,Property,1-2days
+Mystic_Dev,Base,availability,Property,2-3days
+Mystic_Dev,Base,availability,Property,1-2weeks
+Mystic_Dev,Base,availability,Property,2-3weeks
+Mystic_Dev,Base,availability,Property,2-4weeks
+Mystic_Dev,Base,availability,Property,4-6weeks
+Mystic_Dev,Base,availability,Property,Available-for-Same-Day-In-Store-Pickup
 Mystic_Dev,Base,frame-color,Property,Alpine-Glow
 Mystic_Dev,Base,frame-color,Property,Black-Coffee-Tort
 Mystic_Dev,Base,frame-color,Property,Coffee
@@ -13,23 +23,6 @@ Mystic_Dev,Base,frame-color,Property,Purple
 Mystic_Dev,Base,frame-color,Property,Satin-Black
 Mystic_Dev,Base,frame-color,Property,Silver/Gunmetal
 Mystic_Dev,Base,frame-color,Property,White
-Mystic_Dev,Base,availability,Property,24hrs
-Mystic_Dev,Base,availability,Property,24-48hrs
-Mystic_Dev,Base,availability,Property,24-72hrs
-Mystic_Dev,Base,availability,Property,1-2days
-Mystic_Dev,Base,availability,Property,2-3days
-Mystic_Dev,Base,availability,Property,1-2weeks
-Mystic_Dev,Base,availability,Property,2-3weeks
-Mystic_Dev,Base,availability,Property,2-4weeks
-Mystic_Dev,Base,availability,Property,4-6weeks
-Mystic_Dev,Base,season,Property,Fall
-Mystic_Dev,Base,season,Property,Spring
-Mystic_Dev,Base,season,Property,Summer
-Mystic_Dev,Base,season,Property,Winter
-Mystic_Dev,Base,role,Property,AdvClub
-Mystic_Dev,Base,role,Property,Mem
-Mystic_Dev,Base,role,Property,Unapproved
-Mystic_Dev,Base,role,Property,wholesaler
 Mystic_Dev,Base,best-use,Property,Backcountry-Skiing
 Mystic_Dev,Base,best-use,Property,Backpacking
 Mystic_Dev,Base,best-use,Property,Casual
@@ -150,16 +143,17 @@ Mystic_Dev,Base,brand,Property,Toad-Co
 Mystic_Dev,Base,brand,Property,Vasque
 Mystic_Dev,Base,brand,Property,White-Sierra
 Mystic_Dev,Base,brand,Property,Timbuk2
-Mystic_Dev,Base,availability,Property,24hrs
-Mystic_Dev,Base,availability,Property,Available-for-Same-Day-In-Store-Pickup
-Mystic_Dev,Base,availability,Property,24-48hrs
-Mystic_Dev,Base,availability,Property,24-72hrs
-Mystic_Dev,Base,availability,Property,1-2days
-Mystic_Dev,Base,availability,Property,2-3days
-Mystic_Dev,Base,availability,Property,1-2weeks
-Mystic_Dev,Base,availability,Property,2-3weeks
-Mystic_Dev,Base,availability,Property,2-4weeks
-Mystic_Dev,Base,availability,Property,4-6weeks
+Mystic_Dev,Base,season,Property,Fall
+Mystic_Dev,Base,season,Property,Spring
+Mystic_Dev,Base,season,Property,Summer
+Mystic_Dev,Base,season,Property,Winter
+Mystic_Dev,Base,role,Property,AdvClub
+Mystic_Dev,Base,role,Property,Mem
+Mystic_Dev,Base,role,Property,Unapproved
+Mystic_Dev,Base,role,Property,wholesaler
+Mystic_Dev,Hats,gender,Property,Men-s
+Mystic_Dev,Hats,gender,Property,Unisex
+Mystic_Dev,Hats,gender,Property,Women-s
 Mystic_Dev,Hats,brand-colors,Property,Big-Sur-Blue
 Mystic_Dev,Hats,brand-colors,Property,Black
 Mystic_Dev,Hats,brand-colors,Property,Cairn
@@ -178,36 +172,6 @@ Mystic_Dev,Hats,brand-colors,Property,Slate
 Mystic_Dev,Hats,brand-colors,Property,Sunglow
 Mystic_Dev,Hats,brand-colors,Property,Wheat
 Mystic_Dev,Hats,brand-colors,Property,White
-Mystic_Dev,Hats,fabric-type,Property,Acrylic
-Mystic_Dev,Hats,fabric-type,Property,Cotton-/-Cotton-Blend
-Mystic_Dev,Hats,fabric-type,Property,Hemp-/-Linen-/-Blend
-Mystic_Dev,Hats,fabric-type,Property,Merino-Wool
-Mystic_Dev,Hats,fabric-type,Property,Nylon-/-Nylon-Blend
-Mystic_Dev,Hats,fabric-type,Property,Polyester-/-Polyester-Blend
-Mystic_Dev,Hats,fabric-type,Property,Polypropylene-/-Polypropylene-Blend
-Mystic_Dev,Hats,fabric-type,Property,Synthetic-Blend
-Mystic_Dev,Hats,fabric-type,Property,Wool-/-Wool-Blend
-Mystic_Dev,Hats,faset-color,Property,Black
-Mystic_Dev,Hats,faset-color,Property,Blue
-Mystic_Dev,Hats,faset-color,Property,Green
-Mystic_Dev,Hats,faset-color,Property,Grey
-Mystic_Dev,Hats,faset-color,Property,Multi
-Mystic_Dev,Hats,faset-color,Property,Orange
-Mystic_Dev,Hats,faset-color,Property,Pink
-Mystic_Dev,Hats,faset-color,Property,Purple
-Mystic_Dev,Hats,faset-color,Property,Red
-Mystic_Dev,Hats,faset-color,Property,White
-Mystic_Dev,Hats,faset-color,Property,Yellow
-Mystic_Dev,Hats,gender,Property,Men-s
-Mystic_Dev,Hats,gender,Property,Unisex
-Mystic_Dev,Hats,gender,Property,Women-s
-Mystic_Dev,Hats,size,Property,One-Size
-Mystic_Dev,Hats,hat-style,Property,Ball-Cap
-Mystic_Dev,Hats,hat-style,Property,Beanie
-Mystic_Dev,Hats,hat-style,Property,Headband
-Mystic_Dev,Hats,hat-style,Property,Rain-Hat
-Mystic_Dev,Hats,hat-style,Property,Sun-Hat
-Mystic_Dev,Hats,hat-style,Property,Winter-Hat
 Mystic_Dev,Hats,brand-colors,Option,Anthracite-Black
 Mystic_Dev,Hats,brand-colors,Option,Aquamarine
 Mystic_Dev,Hats,brand-colors,Option,Avatar-Blue
@@ -273,6 +237,33 @@ Mystic_Dev,Hats,brand-colors,Option,Wheat
 Mystic_Dev,Hats,brand-colors,Option,White
 Mystic_Dev,Hats,brand-colors,Option,Sunglow
 Mystic_Dev,Hats,brand-colors,Option,Yellow
+Mystic_Dev,Hats,hat-style,Property,Ball-Cap
+Mystic_Dev,Hats,hat-style,Property,Beanie
+Mystic_Dev,Hats,hat-style,Property,Headband
+Mystic_Dev,Hats,hat-style,Property,Rain-Hat
+Mystic_Dev,Hats,hat-style,Property,Sun-Hat
+Mystic_Dev,Hats,hat-style,Property,Winter-Hat
+Mystic_Dev,Hats,fabric-type,Property,Acrylic
+Mystic_Dev,Hats,fabric-type,Property,Cotton-/-Cotton-Blend
+Mystic_Dev,Hats,fabric-type,Property,Hemp-/-Linen-/-Blend
+Mystic_Dev,Hats,fabric-type,Property,Merino-Wool
+Mystic_Dev,Hats,fabric-type,Property,Nylon-/-Nylon-Blend
+Mystic_Dev,Hats,fabric-type,Property,Polyester-/-Polyester-Blend
+Mystic_Dev,Hats,fabric-type,Property,Polypropylene-/-Polypropylene-Blend
+Mystic_Dev,Hats,fabric-type,Property,Synthetic-Blend
+Mystic_Dev,Hats,fabric-type,Property,Wool-/-Wool-Blend
+Mystic_Dev,Hats,faset-color,Property,Black
+Mystic_Dev,Hats,faset-color,Property,Blue
+Mystic_Dev,Hats,faset-color,Property,Green
+Mystic_Dev,Hats,faset-color,Property,Grey
+Mystic_Dev,Hats,faset-color,Property,Multi
+Mystic_Dev,Hats,faset-color,Property,Orange
+Mystic_Dev,Hats,faset-color,Property,Pink
+Mystic_Dev,Hats,faset-color,Property,Purple
+Mystic_Dev,Hats,faset-color,Property,Red
+Mystic_Dev,Hats,faset-color,Property,White
+Mystic_Dev,Hats,faset-color,Property,Yellow
+Mystic_Dev,Hats,size,Property,One-Size
 Mystic_Dev,Hats,size,Option,Large
 Mystic_Dev,Hats,size,Option,L/XL
 Mystic_Dev,Hats,size,Option,Medium
@@ -287,6 +278,10 @@ Mystic_Dev,Hats,size,Option,Extra Large
 Mystic_Dev,Hats,size,Option,XS
 Mystic_Dev,Hats,size,Option,XS/S
 Mystic_Dev,Hats,size,Option,100-fl.-oz.
+Mystic_Dev,Hiking Footwear,footwear-closure,Property,Lace-up
+Mystic_Dev,Hiking Footwear,footwear-closure,Property,Single-pull-Lace
+Mystic_Dev,Hiking Footwear,footwear-height,Property,Ankle
+Mystic_Dev,Hiking Footwear,footwear-height,Property,Over-the-ankle
 Mystic_Dev,Hiking Footwear,gender,Property,Boys-
 Mystic_Dev,Hiking Footwear,gender,Property,Girls-
 Mystic_Dev,Hiking Footwear,gender,Property,Kids-
@@ -340,15 +335,6 @@ Mystic_Dev,Hiking Footwear,brand-colors,Property,Sodalite
 Mystic_Dev,Hiking Footwear,brand-colors,Property,Steel-Gray/Hydrangea
 Mystic_Dev,Hiking Footwear,brand-colors,Property,Tnf-Black/Tnf-White
 Mystic_Dev,Hiking Footwear,brand-colors,Property,Warm-Grey/Beetroot/Salmon
-Mystic_Dev,Hiking Footwear,footwear-height,Property,Ankle
-Mystic_Dev,Hiking Footwear,footwear-height,Property,Over-the-ankle
-Mystic_Dev,Hiking Footwear,features,Property,Can-Be-Resoled
-Mystic_Dev,Hiking Footwear,features,Property,Made-in-USA
-Mystic_Dev,Hiking Footwear,features,Property,New-Arrivals
-Mystic_Dev,Hiking Footwear,features,Property,Vegan
-Mystic_Dev,Hiking Footwear,features,Property,Waterproof
-Mystic_Dev,Hiking Footwear,footwear-closure,Property,Lace-up
-Mystic_Dev,Hiking Footwear,footwear-closure,Property,Single-pull-Lace
 Mystic_Dev,Hiking Footwear,brand-colors,Option,Ash-Stone
 Mystic_Dev,Hiking Footwear,brand-colors,Option,Autobahn/Black/Tomato-Red
 Mystic_Dev,Hiking Footwear,brand-colors,Option,Barley
@@ -425,10 +411,18 @@ Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-10
 Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-11
 Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-12
 Mystic_Dev,Hiking Footwear,shoe-size,Option,Kids-13
-Mystic_Dev,Hammock,seasons,Property,2-Season
-Mystic_Dev,Hammock,seasons,Property,3-Season
-Mystic_Dev,Hammock,seasons,Property,4-Season
-Mystic_Dev,Hammock,seasons,Property,3---4-Season
+Mystic_Dev,Hiking Footwear,features,Property,Can-Be-Resoled
+Mystic_Dev,Hiking Footwear,features,Property,Made-in-USA
+Mystic_Dev,Hiking Footwear,features,Property,New-Arrivals
+Mystic_Dev,Hiking Footwear,features,Property,Vegan
+Mystic_Dev,Hiking Footwear,features,Property,Waterproof
+Mystic_Dev,Hammock,sleeping-capacity,Property,1-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,2-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,3-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,4-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,5-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,6-Person
+Mystic_Dev,Hammock,sleeping-capacity,Property,8--Person
 Mystic_Dev,Hammock,material,Property,Cotton
 Mystic_Dev,Hammock,material,Property,High-tenacity-nylon
 Mystic_Dev,Hammock,material,Property,Nylon
@@ -443,25 +437,6 @@ Mystic_Dev,Hammock,material,Property,100-denier-nylon
 Mystic_Dev,Hammock,material,Property,150-denier-nylon
 Mystic_Dev,Hammock,material,Property,600-denier-polyester
 Mystic_Dev,Hammock,material,Property,300-denier-ripstop-polyester
-Mystic_Dev,Hammock,features,Property,Convertible
-Mystic_Dev,Hammock,features,Property,Built-in-LED-lighting
-Mystic_Dev,Hammock,features,Property,Packable
-Mystic_Dev,Hammock,features,Property,Quick-Drying
-Mystic_Dev,Hammock,sleeping-capacity,Property,1-Person
-Mystic_Dev,Hammock,sleeping-capacity,Property,2-Person
-Mystic_Dev,Hammock,sleeping-capacity,Property,3-Person
-Mystic_Dev,Hammock,sleeping-capacity,Property,4-Person
-Mystic_Dev,Hammock,sleeping-capacity,Property,5-Person
-Mystic_Dev,Hammock,sleeping-capacity,Property,6-Person
-Mystic_Dev,Hammock,sleeping-capacity,Property,8--Person
-Mystic_Dev,Hammock,weight,Property,0-to-0.49
-Mystic_Dev,Hammock,weight,Property,1-to-1.49
-Mystic_Dev,Hammock,weight,Property,3-to-4.99
-Mystic_Dev,Hammock,weight,Property,0.5-to-0.99
-Mystic_Dev,Hammock,weight,Property,5-to-7.99
-Mystic_Dev,Hammock,weight,Property,8-to-11.99
-Mystic_Dev,Hammock,weight,Property,1.50-to-2.99
-Mystic_Dev,Hammock,weight,Property,20-to-29.99
 Mystic_Dev,Hammock,brand-colors,Option,Anthracite-Black
 Mystic_Dev,Hammock,brand-colors,Option,Aquamarine
 Mystic_Dev,Hammock,brand-colors,Option,Ash-Stone
@@ -605,46 +580,28 @@ Mystic_Dev,Hammock,brand-colors,Option,Wheat
 Mystic_Dev,Hammock,brand-colors,Option,White
 Mystic_Dev,Hammock,brand-colors,Option,Yellow
 Mystic_Dev,Hammock,brand-colors,Option,Yellow/Red
-Mystic_Dev,Hiking Jacket,features,Property,Insect-Repellent
-Mystic_Dev,Hiking Jacket,features,Property,Insulated
-Mystic_Dev,Hiking Jacket,features,Property,Moisture-Wicking
-Mystic_Dev,Hiking Jacket,features,Property,New-Arrivals
-Mystic_Dev,Hiking Jacket,features,Property,Packable
-Mystic_Dev,Hiking Jacket,features,Property,Quick-Drying
-Mystic_Dev,Hiking Jacket,features,Property,Thumbholes
-Mystic_Dev,Hiking Jacket,features,Property,Water-Resistant-Down
-Mystic_Dev,Hiking Jacket,features,Property,Waterproof
-Mystic_Dev,Hiking Jacket,features,Property,2-Way-Zipper
-Mystic_Dev,Hiking Jacket,features,Property,3-in-1-Jacket
-Mystic_Dev,Hiking Jacket,features,Property,Hood
-Mystic_Dev,Hiking Jacket,features,Property,Goose-Down
-Mystic_Dev,Hiking Jacket,features,Property,Pit-Zips
-Mystic_Dev,Hiking Jacket,features,Property,Windproof
+Mystic_Dev,Hammock,seasons,Property,2-Season
+Mystic_Dev,Hammock,seasons,Property,3-Season
+Mystic_Dev,Hammock,seasons,Property,4-Season
+Mystic_Dev,Hammock,seasons,Property,3---4-Season
+Mystic_Dev,Hammock,features,Property,Convertible
+Mystic_Dev,Hammock,features,Property,Built-in-LED-lighting
+Mystic_Dev,Hammock,features,Property,Packable
+Mystic_Dev,Hammock,features,Property,Quick-Drying
+Mystic_Dev,Hammock,weight,Property,0-to-0.49
+Mystic_Dev,Hammock,weight,Property,1-to-1.49
+Mystic_Dev,Hammock,weight,Property,3-to-4.99
+Mystic_Dev,Hammock,weight,Property,0.5-to-0.99
+Mystic_Dev,Hammock,weight,Property,5-to-7.99
+Mystic_Dev,Hammock,weight,Property,8-to-11.99
+Mystic_Dev,Hammock,weight,Property,1.50-to-2.99
+Mystic_Dev,Hammock,weight,Property,20-to-29.99
 Mystic_Dev,Hiking Jacket,gender,Property,Boys-
 Mystic_Dev,Hiking Jacket,gender,Property,Girls-
 Mystic_Dev,Hiking Jacket,gender,Property,Kids-
 Mystic_Dev,Hiking Jacket,gender,Property,Men-s
 Mystic_Dev,Hiking Jacket,gender,Property,Unisex
 Mystic_Dev,Hiking Jacket,gender,Property,Women-s
-Mystic_Dev,Hiking Jacket,insulation-type,Property,Down
-Mystic_Dev,Hiking Jacket,insulation-type,Property,Down-/-Synthetic-Blend
-Mystic_Dev,Hiking Jacket,insulation-type,Property,Synthetic
-Mystic_Dev,Hiking Jacket,back-length,Property,Hip-length
-Mystic_Dev,Hiking Jacket,back-length,Property,Thigh-length
-Mystic_Dev,Hiking Jacket,back-length,Property,Waist-length
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Cotton-/-Cotton-Blend
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Nylon-/-Nylon-Blend
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-/-Polyester-Blend
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Polypropylene-/-Polypropylene-Blend
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Synthetic-Blend
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Nylon
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyamide
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-Fleece
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-Microfleece
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Recycled-Ripstop-Nylon
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Recycled-Ripstop-Polyester
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Ripstop-Nylon
-Mystic_Dev,Hiking Jacket,fabric-type,Property,Ripstop-Polyester
 Mystic_Dev,Hiking Jacket,brand-colors,Option,Andes-Blue
 Mystic_Dev,Hiking Jacket,brand-colors,Option,Alpine-Green
 Mystic_Dev,Hiking Jacket,brand-colors,Option,Asphalt-Grey/Tnf-Black
@@ -708,6 +665,22 @@ Mystic_Dev,Hiking Jacket,brand-colors,Option,Urban-Army
 Mystic_Dev,Hiking Jacket,brand-colors,Option,Urban-Navy
 Mystic_Dev,Hiking Jacket,brand-colors,Option,Watermelon
 Mystic_Dev,Hiking Jacket,brand-colors,Option,Wild-Rose
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Cotton-/-Cotton-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Nylon-/-Nylon-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-/-Polyester-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polypropylene-/-Polypropylene-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Synthetic-Blend
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Nylon
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyamide
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-Fleece
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Polyester-Microfleece
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Recycled-Ripstop-Nylon
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Recycled-Ripstop-Polyester
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Ripstop-Nylon
+Mystic_Dev,Hiking Jacket,fabric-type,Property,Ripstop-Polyester
+Mystic_Dev,Hiking Jacket,insulation-type,Property,Down
+Mystic_Dev,Hiking Jacket,insulation-type,Property,Down-/-Synthetic-Blend
+Mystic_Dev,Hiking Jacket,insulation-type,Property,Synthetic
 Mystic_Dev,Hiking Jacket,size,Option,XXS
 Mystic_Dev,Hiking Jacket,size,Option,XS
 Mystic_Dev,Hiking Jacket,size,Option,Small
@@ -733,14 +706,30 @@ Mystic_Dev,Hiking Jacket,size,Option,S--8-
 Mystic_Dev,Hiking Jacket,size,Option,M--10---12-
 Mystic_Dev,Hiking Jacket,size,Option,L--14---16-
 Mystic_Dev,Hiking Jacket,size,Option,XL--18-
-Mystic_Dev,Hiking Shorts,inseam-in,Property,4
-Mystic_Dev,Hiking Shorts,inseam-in,Property,5
-Mystic_Dev,Hiking Shorts,inseam-in,Property,7
-Mystic_Dev,Hiking Shorts,inseam-in,Property,8
-Mystic_Dev,Hiking Shorts,inseam-in,Property,9
-Mystic_Dev,Hiking Shorts,inseam-in,Property,10
-Mystic_Dev,Hiking Shorts,inseam-in,Property,11
-Mystic_Dev,Hiking Shorts,inseam-in,Property,12
+Mystic_Dev,Hiking Jacket,features,Property,Insect-Repellent
+Mystic_Dev,Hiking Jacket,features,Property,Insulated
+Mystic_Dev,Hiking Jacket,features,Property,Moisture-Wicking
+Mystic_Dev,Hiking Jacket,features,Property,New-Arrivals
+Mystic_Dev,Hiking Jacket,features,Property,Packable
+Mystic_Dev,Hiking Jacket,features,Property,Quick-Drying
+Mystic_Dev,Hiking Jacket,features,Property,Thumbholes
+Mystic_Dev,Hiking Jacket,features,Property,Water-Resistant-Down
+Mystic_Dev,Hiking Jacket,features,Property,Waterproof
+Mystic_Dev,Hiking Jacket,features,Property,2-Way-Zipper
+Mystic_Dev,Hiking Jacket,features,Property,3-in-1-Jacket
+Mystic_Dev,Hiking Jacket,features,Property,Hood
+Mystic_Dev,Hiking Jacket,features,Property,Goose-Down
+Mystic_Dev,Hiking Jacket,features,Property,Pit-Zips
+Mystic_Dev,Hiking Jacket,features,Property,Windproof
+Mystic_Dev,Hiking Jacket,back-length,Property,Hip-length
+Mystic_Dev,Hiking Jacket,back-length,Property,Thigh-length
+Mystic_Dev,Hiking Jacket,back-length,Property,Waist-length
+Mystic_Dev,Hiking Shorts,gender,Property,Boys-
+Mystic_Dev,Hiking Shorts,gender,Property,Girls-
+Mystic_Dev,Hiking Shorts,gender,Property,Kids-
+Mystic_Dev,Hiking Shorts,gender,Property,Men-s
+Mystic_Dev,Hiking Shorts,gender,Property,Unisex
+Mystic_Dev,Hiking Shorts,gender,Property,Women-s
 Mystic_Dev,Hiking Shorts,brand-colors,Property,Dusk
 Mystic_Dev,Hiking Shorts,brand-colors,Property,Pewter
 Mystic_Dev,Hiking Shorts,brand-colors,Property,Fossill
@@ -749,26 +738,6 @@ Mystic_Dev,Hiking Shorts,brand-colors,Property,Black
 Mystic_Dev,Hiking Shorts,brand-colors,Property,Charcoal
 Mystic_Dev,Hiking Shorts,brand-colors,Property,Dark-Khaki
 Mystic_Dev,Hiking Shorts,brand-colors,Property,Raisin
-Mystic_Dev,Hiking Shorts,fabric-type,Property,Cotton-/-Cotton-Blend
-Mystic_Dev,Hiking Shorts,fabric-type,Property,Nylon-/-Nylon-Blend
-Mystic_Dev,Hiking Shorts,fabric-type,Property,Polyester-/-Polyester-Blend
-Mystic_Dev,Hiking Shorts,features,Property,Inner-Liner
-Mystic_Dev,Hiking Shorts,features,Property,Moisture-Wicking
-Mystic_Dev,Hiking Shorts,features,Property,Quick-Drying
-Mystic_Dev,Hiking Shorts,features,Property,Side-Cargo-Pockets
-Mystic_Dev,Hiking Shorts,features,Property,Sun-Protective-Fabric
-Mystic_Dev,Hiking Shorts,features,Property,Contains-recycled-materials
-Mystic_Dev,Hiking Shorts,features,Property,Made-in-USA
-Mystic_Dev,Hiking Shorts,features,Property,New-Arrivals
-Mystic_Dev,Hiking Shorts,gender,Property,Boys-
-Mystic_Dev,Hiking Shorts,gender,Property,Girls-
-Mystic_Dev,Hiking Shorts,gender,Property,Kids-
-Mystic_Dev,Hiking Shorts,gender,Property,Men-s
-Mystic_Dev,Hiking Shorts,gender,Property,Unisex
-Mystic_Dev,Hiking Shorts,gender,Property,Women-s
-Mystic_Dev,Hiking Shorts,size,Property,32
-Mystic_Dev,Hiking Shorts,size,Property,6
-Mystic_Dev,Hiking Shorts,size,Property,XXS
 Mystic_Dev,Hiking Shorts,brand-colors,Option,Asphalt-Grey
 Mystic_Dev,Hiking Shorts,brand-colors,Option,Black
 Mystic_Dev,Hiking Shorts,brand-colors,Option,Bluebell
@@ -787,6 +756,20 @@ Mystic_Dev,Hiking Shorts,brand-colors,Option,Manta-Grey
 Mystic_Dev,Hiking Shorts,brand-colors,Option,Raisin
 Mystic_Dev,Hiking Shorts,brand-colors,Option,Sandstorm
 Mystic_Dev,Hiking Shorts,brand-colors,Option,Zinc
+Mystic_Dev,Hiking Shorts,inseam-in,Property,4
+Mystic_Dev,Hiking Shorts,inseam-in,Property,5
+Mystic_Dev,Hiking Shorts,inseam-in,Property,7
+Mystic_Dev,Hiking Shorts,inseam-in,Property,8
+Mystic_Dev,Hiking Shorts,inseam-in,Property,9
+Mystic_Dev,Hiking Shorts,inseam-in,Property,10
+Mystic_Dev,Hiking Shorts,inseam-in,Property,11
+Mystic_Dev,Hiking Shorts,inseam-in,Property,12
+Mystic_Dev,Hiking Shorts,fabric-type,Property,Cotton-/-Cotton-Blend
+Mystic_Dev,Hiking Shorts,fabric-type,Property,Nylon-/-Nylon-Blend
+Mystic_Dev,Hiking Shorts,fabric-type,Property,Polyester-/-Polyester-Blend
+Mystic_Dev,Hiking Shorts,size,Property,32
+Mystic_Dev,Hiking Shorts,size,Property,6
+Mystic_Dev,Hiking Shorts,size,Property,XXS
 Mystic_Dev,Hiking Shorts,size,Option,0
 Mystic_Dev,Hiking Shorts,size,Option,2
 Mystic_Dev,Hiking Shorts,size,Option,4
@@ -813,12 +796,14 @@ Mystic_Dev,Hiking Shorts,size,Option,Medium
 Mystic_Dev,Hiking Shorts,size,Option,Large
 Mystic_Dev,Hiking Shorts,size,Option,Extra Large
 Mystic_Dev,Hiking Shorts,size,Option,XXL
-Mystic_Dev,Hiking Vest,insulation-type,Property,Down
-Mystic_Dev,Hiking Vest,insulation-type,Property,Down-/-Synthetic-Blend
-Mystic_Dev,Hiking Vest,insulation-type,Property,Synthetic
-Mystic_Dev,Hiking Vest,features,Property,Insulated
-Mystic_Dev,Hiking Vest,features,Property,Packable
-Mystic_Dev,Hiking Vest,features,Property,Water-Resistant-Down
+Mystic_Dev,Hiking Shorts,features,Property,Inner-Liner
+Mystic_Dev,Hiking Shorts,features,Property,Moisture-Wicking
+Mystic_Dev,Hiking Shorts,features,Property,Quick-Drying
+Mystic_Dev,Hiking Shorts,features,Property,Side-Cargo-Pockets
+Mystic_Dev,Hiking Shorts,features,Property,Sun-Protective-Fabric
+Mystic_Dev,Hiking Shorts,features,Property,Contains-recycled-materials
+Mystic_Dev,Hiking Shorts,features,Property,Made-in-USA
+Mystic_Dev,Hiking Shorts,features,Property,New-Arrivals
 Mystic_Dev,Hiking Vest,fill-power,Property,551-to-650
 Mystic_Dev,Hiking Vest,fill-power,Property,651-to-750
 Mystic_Dev,Hiking Vest,fill-power,Property,751-to-850
@@ -828,24 +813,30 @@ Mystic_Dev,Hiking Vest,gender,Property,Kids-
 Mystic_Dev,Hiking Vest,gender,Property,Men-s
 Mystic_Dev,Hiking Vest,gender,Property,Unisex
 Mystic_Dev,Hiking Vest,gender,Property,Women-s
+Mystic_Dev,Hiking Vest,insulation-type,Property,Down
+Mystic_Dev,Hiking Vest,insulation-type,Property,Down-/-Synthetic-Blend
+Mystic_Dev,Hiking Vest,insulation-type,Property,Synthetic
+Mystic_Dev,Hiking Vest,features,Property,Insulated
+Mystic_Dev,Hiking Vest,features,Property,Packable
+Mystic_Dev,Hiking Vest,features,Property,Water-Resistant-Down
 Mystic_Dev,Boot,faset-color,Option,Black
 Mystic_Dev,Boot,faset-color,Option,Brown
 Mystic_Dev,Boot,faset-color,Option,Copper
 Mystic_Dev,Boot,faset-color,Option,Nutmeg
 Mystic_Dev,Boot,size,Option,9
-Mystic_Dev,Article,article-season,Property,Fall
-Mystic_Dev,Article,article-season,Property,Spring
-Mystic_Dev,Article,article-season,Property,Summer
-Mystic_Dev,Article,article-season,Property,Winter
-Mystic_Dev,Backpack,size,Option,Large
-Mystic_Dev,Backpack,size,Option,Medium
-Mystic_Dev,Backpack,size,Option,Small
-Mystic_Dev,Backpack,size,Option,Extra Large
 Mystic_Dev,Backpack,faset-color,Option,Asphalt-Grey/Silver-Reflective
 Mystic_Dev,Backpack,faset-color,Option,Black
 Mystic_Dev,Backpack,faset-color,Option,Brandy-Brown/Burnt-Ochre
 Mystic_Dev,Backpack,faset-color,Option,TNF-Black
 Mystic_Dev,Backpack,faset-color,Option,Zinc-Grey/TNF-Black
+Mystic_Dev,Backpack,size,Option,Large
+Mystic_Dev,Backpack,size,Option,Medium
+Mystic_Dev,Backpack,size,Option,Small
+Mystic_Dev,Backpack,size,Option,Extra Large
 Mystic_Dev,Backpack,product-warranty,Extra,1-Year-Warranty
 Mystic_Dev,Backpack,product-warranty,Extra,2-Year-Warranty
 Mystic_Dev,Backpack,product-warranty,Extra,5-Year-Warranty
+Mystic_Dev,Article,article-season,Property,Fall
+Mystic_Dev,Article,article-season,Property,Spring
+Mystic_Dev,Article,article-season,Property,Summer
+Mystic_Dev,Article,article-season,Property,Winter

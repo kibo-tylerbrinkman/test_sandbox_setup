@@ -1,49 +1,50 @@
-MasterCatalogName,AttributeCode,AttributeName,Description,DataType,InputType,IsExtra,IsOption,IsProperty,Namespace,SearchableInStorefront,SearchableInAdmin,SearchDisplayValue
-Mystic_Dev,fill-power,Fill Power,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,sleeping-capacity,Sleeping Capacity,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,footwear-closure,Footwear Closure,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,footwear-height,Footwear Height,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,material,Material,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,frame-color,Frame Color,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,product-related,Related Products,,String,TextBox,No,No,Yes,Tenant,No,No,No
-Mystic_Dev,best-use,Best Use,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,gender,Gender,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,brand,Brand,,String,List,Yes,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,rating,Rating,,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,No
-Mystic_Dev,brand-colors,Color,,String,List,Yes,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,hat-style,Hat Style,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,seasons,Seasons,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,hydration-compatible,Hydration Compatible,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,visor,Visor,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,inseam-in,Inseam (in.),,Number,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,shoe-size,Shoe Size,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,insulated,Insulated,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,fabric-type,Fabric Type,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,insulation-type,Insulation Type,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,faset-color,Color,,String,List,Yes,Yes,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,size,Size,,String,List,No,Yes,Yes,Tenant,Yes,Yes,No
-Mystic_Dev,waterproof,Waterproof,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,features,Features,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,weight-capacity-lbs-,Weight Capacity (lbs),,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,weight,Weight (lbs),,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,back-length,Back Length,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,season,Season,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,role,role,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,product-video-1,Product Video 1,,String,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,monogram,Monogram,,String,TextBox,Yes,No,No,Tenant,Yes,Yes,Yes
-Mystic_Dev,gift-wrapping,Gift Wrapping,,Bool,YesNo,Yes,No,No,Tenant,Yes,Yes,Yes
-Mystic_Dev,gift-message,Gift Message,,String,TextBox,Yes,No,No,Tenant,Yes,Yes,Yes
-Mystic_Dev,new-product,New Product,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,product-warranty,Product Warranty,,String,List,Yes,No,No,Tenant,Yes,Yes,Yes
-Mystic_Dev,loyalty-point-value,Loyalty Point Value,,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,new-release,New Release,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
-Mystic_Dev,price-list-entry-type,price-list-entry-type,PriceListEntryType,String,List,No,No,Yes,system,No,Yes,Yes,No
-Mystic_Dev,substitute-variants,Substitute Variants,Substitute Variants,String,TextBox,No,No,Yes,system,No,No,No,No
-Mystic_Dev,substitute-products,Substitute Products,Substitute Products,String,TextBox,No,No,Yes,system,No,No,No,No
-Mystic_Dev,reserve-inventory-in-cart,reserve-inventory-in-cart,Reserve Inventory In Cart,Bool,YesNo,No,No,Yes,Tenant,No,Yes,No,No
-Mystic_Dev,availability,availability,Availability,String,List,No,No,Yes,Tenant,Yes,Yes,No,No
-Mystic_Dev,product-crosssell,product-crosssell,Product Cross-Sells,String,TextBox,No,No,Yes,Tenant,No,No,No,No
-Mystic_Dev,popularity,Popularity,Popularity,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,No,No
-Mystic_Dev,article-season,Article Season,Article Season,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
-Mystic_Dev,publish-date,Publish Date,Publish Date,DateTime,Date,No,No,Yes,Tenant,Yes,Yes,Yes,No
-Mystic_Dev,article-author,Article Author,Article Author,String,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes,No
+MasterCatalogName,AttributeCode,AttributeAdminName,AttributeName,Description,DataType,InputType,IsExtra,IsOption,IsProperty,Namespace,SearchableInStorefront,SearchableInAdmin,SearchDisplayValue,AvailableForOrderRouting
+Mystic_Dev,availability,availability,Availability,,String,List,No,No,Yes,Tenant,Yes,Yes,No,No
+Mystic_Dev,product-crosssell,product-crosssell,product-crosssell,Product Cross-Sells,String,TextBox,No,No,Yes,Tenant,No,No,No,No
+Mystic_Dev,popularity,Popularity,Popularity,,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,No,No
+Mystic_Dev,price-list-entry-type,price-list-entry-type,price-list-entry-type,PriceListEntryType,String,List,No,No,Yes,system,No,Yes,Yes,No
+Mystic_Dev,rating,Rating,Rating,,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,No,No
+Mystic_Dev,product-related,product-related,Related Products,,String,TextBox,No,No,Yes,Tenant,No,No,No,No
+Mystic_Dev,substitute-products,Substitute Products,Substitute Products,,String,TextBox,No,No,Yes,system,No,No,No,No
+Mystic_Dev,substitute-variants,Substitute Variants,Substitute Variants,,String,TextBox,No,No,Yes,system,No,No,No,No
+Mystic_Dev,product-upsell,product-upsell,Product Upsells,,String,TextBox,No,No,Yes,Tenant,No,No,No,No
+Mystic_Dev,reserve-inventory-in-cart,reserve-inventory-in-cart,reserve-inventory-in-cart,Reserve Inventory In Cart,Bool,YesNo,No,No,Yes,Tenant,No,Yes,No,No
+Mystic_Dev,fill-power,fill-power,Fill Power,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,sleeping-capacity,sleeping-capacity,Sleeping Capacity,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,footwear-closure,footwear-closure,Footwear Closure,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,footwear-height,footwear-height,Footwear Height,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,material,material,Material,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,frame-color,frame-color,Frame Color,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,best-use,best-use,Best Use,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,gender,gender,Gender,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,brand,brand,Brand,,String,List,Yes,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,brand-colors,brand-colors,Color,,String,List,Yes,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,hat-style,hat-style,Hat Style,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,seasons,seasons,Seasons,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,hydration-compatible,hydration-compatible,Hydration Compatible,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,visor,visor,Visor,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,inseam-in,inseam-in,Inseam (in.),,Number,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,shoe-size,shoe-size,Shoe Size,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,insulated,insulated,Insulated,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,fabric-type,fabric-type,Fabric Type,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,insulation-type,insulation-type,Insulation Type,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,faset-color,faset-color,Color,,String,List,Yes,Yes,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,size,size,Size,,String,List,No,Yes,Yes,Tenant,Yes,Yes,No,No
+Mystic_Dev,waterproof,waterproof,Waterproof,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,features,features,Features,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,weight-capacity-lbs-,weight-capacity-lbs-,Weight Capacity (lbs),,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,weight,weight,Weight (lbs),,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,back-length,back-length,Back Length,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,season,season,Season,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,role,role,role,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,product-video-1,product-video-1,Product Video 1,,String,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,monogram,monogram,Monogram,,String,TextBox,Yes,No,No,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,gift-wrapping,gift-wrapping,Gift Wrapping,,Bool,YesNo,Yes,No,No,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,gift-message,gift-message,Gift Message,,String,TextBox,Yes,No,No,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,new-product,new-product,New Product,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,product-warranty,product-warranty,Product Warranty,,String,List,Yes,No,No,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,loyalty-point-value,loyalty-point-value,Loyalty Point Value,,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,new-release,new-release,New Release,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,article-season,article-season,Article Season,Article Season,String,List,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,publish-date,publish-date,Publish Date,Publish Date,DateTime,Date,No,No,Yes,Tenant,Yes,Yes,Yes,No
+Mystic_Dev,article-author,article-author,Article Author,Article Author,String,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes,No

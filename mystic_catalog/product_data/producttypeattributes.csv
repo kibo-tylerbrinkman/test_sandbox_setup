@@ -1,212 +1,212 @@
-﻿MasterCatalogName,ProductType,AttributeCode,Type,IsRequiredByAdmin,IsHiddenProperty,IsMultiValueProperty,Order
+MasterCatalogName,ProductType,AttributeCode,Type,IsRequiredByAdmin,IsHiddenProperty,IsMultiValueProperty,Order
+Mystic_Dev,Base,availability,Property,No,No,No,3
+Mystic_Dev,Base,product-crosssell,Property,No,No,No,2
+Mystic_Dev,Base,popularity,Property,No,No,No,2
+Mystic_Dev,Base,rating,Property,No,No,No,2
+Mystic_Dev,Base,product-related,Property,No,No,No,3
+Mystic_Dev,Base,product-upsell,Property,No,No,No,3
 Mystic_Dev,Base,frame-color,Property,No,No,No,0
+Mystic_Dev,Base,best-use,Property,No,No,No,1
+Mystic_Dev,Base,brand,Property,No,No,No,1
 Mystic_Dev,Base,season,Property,No,No,No,0
 Mystic_Dev,Base,role,Property,No,No,No,0
 Mystic_Dev,Base,product-video-1,Property,No,No,No,0
 Mystic_Dev,Base,new-product,Property,No,No,No,0
 Mystic_Dev,Base,new-release,Property,No,No,No,0
-Mystic_Dev,Base,best-use,Property,No,No,No,1
-Mystic_Dev,Base,brand,Property,No,No,No,1
-Mystic_Dev,Base,popularity,Property,No,No,No,2
-Mystic_Dev,Base,product-crosssell,Property,No,No,No,2
-Mystic_Dev,Base,rating,Property,No,No,No,2
-Mystic_Dev,Base,product-related,Property,No,No,No,3
-Mystic_Dev,Base,product-upsell,Property,No,No,No,3
-Mystic_Dev,Hats,availability,Property,No,No,Yes,0
-Mystic_Dev,Hats,popularity,Property,No,No,No,0
+Mystic_Dev,Hats,availability,Property,No,No,No,0
 Mystic_Dev,Hats,product-crosssell,Property,No,No,No,0
+Mystic_Dev,Hats,popularity,Property,No,No,No,0
+Mystic_Dev,Hats,rating,Property,No,No,No,0
 Mystic_Dev,Hats,product-related,Property,No,No,No,0
 Mystic_Dev,Hats,product-upsell,Property,No,No,No,0
+Mystic_Dev,Hats,frame-color,Property,No,No,No,0
 Mystic_Dev,Hats,best-use,Property,No,No,No,0
+Mystic_Dev,Hats,gender,Property,No,No,No,4
 Mystic_Dev,Hats,brand,Property,No,No,No,0
-Mystic_Dev,Hats,rating,Property,No,No,No,0
+Mystic_Dev,Hats,brand-colors,Option,No,No,No,1
+Mystic_Dev,Hats,brand-colors,Property,No,No,No,1
+Mystic_Dev,Hats,hat-style,Property,No,No,No,7
+Mystic_Dev,Hats,visor,Property,No,No,No,6
+Mystic_Dev,Hats,fabric-type,Property,No,No,No,2
+Mystic_Dev,Hats,faset-color,Property,No,No,No,3
+Mystic_Dev,Hats,size,Option,No,No,No,2
+Mystic_Dev,Hats,size,Property,No,No,No,5
 Mystic_Dev,Hats,season,Property,No,No,No,0
 Mystic_Dev,Hats,role,Property,No,No,No,0
-Mystic_Dev,Hats,frame-color,Property,No,No,No,0
 Mystic_Dev,Hats,product-video-1,Property,No,No,No,0
 Mystic_Dev,Hats,new-product,Property,No,No,No,0
 Mystic_Dev,Hats,new-release,Property,No,No,No,0
-Mystic_Dev,Hats,brand-colors,Property,No,No,No,1
-Mystic_Dev,Hats,fabric-type,Property,No,No,No,2
-Mystic_Dev,Hats,faset-color,Property,No,No,No,3
-Mystic_Dev,Hats,gender,Property,No,No,No,4
-Mystic_Dev,Hats,size,Property,No,No,No,5
-Mystic_Dev,Hats,visor,Property,No,No,No,6
-Mystic_Dev,Hats,hat-style,Property,No,No,No,7
-Mystic_Dev,Hats,brand-colors,Option,No,No,No,1
-Mystic_Dev,Hats,size,Option,No,No,No,2
-Mystic_Dev,Hiking Footwear,availability,Property,No,No,Yes,0
-Mystic_Dev,Hiking Footwear,popularity,Property,No,No,No,0
+Mystic_Dev,Hiking Footwear,availability,Property,No,No,No,0
 Mystic_Dev,Hiking Footwear,product-crosssell,Property,No,No,No,0
-Mystic_Dev,Hiking Footwear,frame-color,Property,No,No,No,0
+Mystic_Dev,Hiking Footwear,popularity,Property,No,No,No,0
+Mystic_Dev,Hiking Footwear,rating,Property,No,No,No,0
 Mystic_Dev,Hiking Footwear,product-related,Property,No,No,No,0
 Mystic_Dev,Hiking Footwear,product-upsell,Property,No,No,No,0
+Mystic_Dev,Hiking Footwear,footwear-closure,Property,No,No,No,5
+Mystic_Dev,Hiking Footwear,footwear-height,Property,No,No,No,3
+Mystic_Dev,Hiking Footwear,frame-color,Property,No,No,No,0
 Mystic_Dev,Hiking Footwear,best-use,Property,No,No,No,0
+Mystic_Dev,Hiking Footwear,gender,Property,No,No,No,1
 Mystic_Dev,Hiking Footwear,brand,Property,No,No,No,0
-Mystic_Dev,Hiking Footwear,rating,Property,No,No,No,0
+Mystic_Dev,Hiking Footwear,brand-colors,Option,No,No,No,1
+Mystic_Dev,Hiking Footwear,brand-colors,Property,No,No,No,2
+Mystic_Dev,Hiking Footwear,shoe-size,Option,No,No,No,2
+Mystic_Dev,Hiking Footwear,waterproof,Property,No,No,No,2
+Mystic_Dev,Hiking Footwear,features,Property,No,No,No,4
 Mystic_Dev,Hiking Footwear,season,Property,No,No,No,0
 Mystic_Dev,Hiking Footwear,role,Property,No,No,No,0
 Mystic_Dev,Hiking Footwear,product-video-1,Property,No,No,No,0
 Mystic_Dev,Hiking Footwear,new-product,Property,No,No,No,0
 Mystic_Dev,Hiking Footwear,new-release,Property,No,No,No,0
-Mystic_Dev,Hiking Footwear,gender,Property,No,No,No,1
-Mystic_Dev,Hiking Footwear,brand-colors,Property,No,No,No,2
-Mystic_Dev,Hiking Footwear,waterproof,Property,No,No,No,2
-Mystic_Dev,Hiking Footwear,footwear-height,Property,No,No,No,3
-Mystic_Dev,Hiking Footwear,features,Property,No,No,Yes,4
-Mystic_Dev,Hiking Footwear,footwear-closure,Property,No,No,No,5
-Mystic_Dev,Hiking Footwear,brand-colors,Option,No,No,No,1
-Mystic_Dev,Hiking Footwear,shoe-size,Option,No,No,No,2
-Mystic_Dev,Hammock,availability,Property,No,No,Yes,0
-Mystic_Dev,Hammock,popularity,Property,No,No,No,0
+Mystic_Dev,Hammock,availability,Property,No,No,No,0
 Mystic_Dev,Hammock,product-crosssell,Property,No,No,No,0
+Mystic_Dev,Hammock,popularity,Property,No,No,No,0
+Mystic_Dev,Hammock,rating,Property,No,No,No,0
 Mystic_Dev,Hammock,product-related,Property,No,No,No,0
 Mystic_Dev,Hammock,product-upsell,Property,No,No,No,0
+Mystic_Dev,Hammock,sleeping-capacity,Property,No,No,No,3
+Mystic_Dev,Hammock,material,Property,No,No,No,2
+Mystic_Dev,Hammock,frame-color,Property,No,No,No,0
 Mystic_Dev,Hammock,best-use,Property,No,No,No,0
 Mystic_Dev,Hammock,brand,Property,No,No,No,0
-Mystic_Dev,Hammock,rating,Property,No,No,No,0
+Mystic_Dev,Hammock,brand-colors,Option,No,No,No,1
+Mystic_Dev,Hammock,seasons,Property,No,No,No,1
+Mystic_Dev,Hammock,features,Property,No,No,No,2
+Mystic_Dev,Hammock,weight-capacity-lbs-,Property,No,No,No,5
+Mystic_Dev,Hammock,weight,Property,No,No,No,4
 Mystic_Dev,Hammock,season,Property,No,No,No,0
 Mystic_Dev,Hammock,role,Property,No,No,No,0
 Mystic_Dev,Hammock,product-video-1,Property,No,No,No,0
-Mystic_Dev,Hammock,frame-color,Property,No,No,No,0
 Mystic_Dev,Hammock,new-product,Property,No,No,No,0
 Mystic_Dev,Hammock,new-release,Property,No,No,No,0
-Mystic_Dev,Hammock,seasons,Property,No,No,No,1
-Mystic_Dev,Hammock,material,Property,No,No,No,2
-Mystic_Dev,Hammock,features,Property,No,No,Yes,2
-Mystic_Dev,Hammock,sleeping-capacity,Property,No,No,No,3
-Mystic_Dev,Hammock,weight,Property,No,No,No,4
-Mystic_Dev,Hammock,weight-capacity-lbs-,Property,No,No,No,5
-Mystic_Dev,Hammock,brand-colors,Option,No,No,No,1
-Mystic_Dev,Hiking Jacket,availability,Property,No,No,Yes,0
-Mystic_Dev,Hiking Jacket,popularity,Property,No,No,No,0
+Mystic_Dev,Hiking Jacket,availability,Property,No,No,No,0
 Mystic_Dev,Hiking Jacket,product-crosssell,Property,No,No,No,0
+Mystic_Dev,Hiking Jacket,popularity,Property,No,No,No,0
+Mystic_Dev,Hiking Jacket,rating,Property,No,No,No,0
 Mystic_Dev,Hiking Jacket,product-related,Property,No,No,No,0
 Mystic_Dev,Hiking Jacket,product-upsell,Property,No,No,No,0
-Mystic_Dev,Hiking Jacket,best-use,Property,No,No,No,0
-Mystic_Dev,Hiking Jacket,brand,Property,No,No,No,0
-Mystic_Dev,Hiking Jacket,rating,Property,No,No,No,0
-Mystic_Dev,Hiking Jacket,role,Property,No,No,No,0
 Mystic_Dev,Hiking Jacket,frame-color,Property,No,No,No,0
+Mystic_Dev,Hiking Jacket,best-use,Property,No,No,No,0
+Mystic_Dev,Hiking Jacket,gender,Property,No,No,No,3
+Mystic_Dev,Hiking Jacket,brand,Property,No,No,No,0
+Mystic_Dev,Hiking Jacket,brand-colors,Option,No,No,No,1
+Mystic_Dev,Hiking Jacket,fabric-type,Property,No,No,No,6
+Mystic_Dev,Hiking Jacket,insulation-type,Property,No,No,No,4
+Mystic_Dev,Hiking Jacket,size,Option,No,No,No,2
+Mystic_Dev,Hiking Jacket,features,Property,No,No,No,2
+Mystic_Dev,Hiking Jacket,back-length,Property,No,No,No,5
+Mystic_Dev,Hiking Jacket,season,Property,No,No,No,0
+Mystic_Dev,Hiking Jacket,role,Property,No,No,No,0
 Mystic_Dev,Hiking Jacket,product-video-1,Property,No,No,No,0
 Mystic_Dev,Hiking Jacket,new-product,Property,No,No,No,0
 Mystic_Dev,Hiking Jacket,new-release,Property,No,No,No,0
-Mystic_Dev,Hiking Jacket,season,Property,No,No,No,0
-Mystic_Dev,Hiking Jacket,features,Property,No,No,Yes,2
-Mystic_Dev,Hiking Jacket,gender,Property,No,No,No,3
-Mystic_Dev,Hiking Jacket,insulation-type,Property,No,No,No,4
-Mystic_Dev,Hiking Jacket,back-length,Property,No,No,No,5
-Mystic_Dev,Hiking Jacket,fabric-type,Property,No,No,No,6
-Mystic_Dev,Hiking Jacket,brand-colors,Option,No,No,No,1
-Mystic_Dev,Hiking Jacket,size,Option,No,No,No,2
-Mystic_Dev,Hiking Shorts,availability,Property,No,No,Yes,0
-Mystic_Dev,Hiking Shorts,popularity,Property,No,No,No,0
+Mystic_Dev,Hiking Shorts,availability,Property,No,No,No,0
 Mystic_Dev,Hiking Shorts,product-crosssell,Property,No,No,No,0
+Mystic_Dev,Hiking Shorts,popularity,Property,No,No,No,0
+Mystic_Dev,Hiking Shorts,rating,Property,No,No,No,0
 Mystic_Dev,Hiking Shorts,product-related,Property,No,No,No,0
 Mystic_Dev,Hiking Shorts,product-upsell,Property,No,No,No,0
+Mystic_Dev,Hiking Shorts,frame-color,Property,No,No,No,0
 Mystic_Dev,Hiking Shorts,best-use,Property,No,No,No,0
+Mystic_Dev,Hiking Shorts,gender,Property,No,No,No,6
 Mystic_Dev,Hiking Shorts,brand,Property,No,No,No,0
-Mystic_Dev,Hiking Shorts,rating,Property,No,No,No,0
+Mystic_Dev,Hiking Shorts,brand-colors,Option,No,No,No,1
+Mystic_Dev,Hiking Shorts,brand-colors,Property,No,No,No,3
+Mystic_Dev,Hiking Shorts,inseam-in,Property,No,No,No,1
+Mystic_Dev,Hiking Shorts,fabric-type,Property,No,No,No,4
+Mystic_Dev,Hiking Shorts,size,Option,No,No,No,3
+Mystic_Dev,Hiking Shorts,size,Property,No,No,No,7
+Mystic_Dev,Hiking Shorts,features,Property,No,No,No,5
 Mystic_Dev,Hiking Shorts,season,Property,No,No,No,0
 Mystic_Dev,Hiking Shorts,role,Property,No,No,No,0
-Mystic_Dev,Hiking Shorts,frame-color,Property,No,No,No,0
 Mystic_Dev,Hiking Shorts,product-video-1,Property,No,No,No,0
 Mystic_Dev,Hiking Shorts,new-product,Property,No,No,No,0
 Mystic_Dev,Hiking Shorts,new-release,Property,No,No,No,0
-Mystic_Dev,Hiking Shorts,inseam-in,Property,No,No,No,1
-Mystic_Dev,Hiking Shorts,brand-colors,Property,No,No,No,3
-Mystic_Dev,Hiking Shorts,fabric-type,Property,No,No,No,4
-Mystic_Dev,Hiking Shorts,features,Property,No,No,Yes,5
-Mystic_Dev,Hiking Shorts,gender,Property,No,No,No,6
-Mystic_Dev,Hiking Shorts,size,Property,No,No,No,7
-Mystic_Dev,Hiking Shorts,brand-colors,Option,No,No,No,1
-Mystic_Dev,Hiking Shorts,size,Option,No,No,No,3
-Mystic_Dev,Hiking Vest,availability,Property,No,No,Yes,0
-Mystic_Dev,Hiking Vest,popularity,Property,No,No,No,0
+Mystic_Dev,Hiking Vest,availability,Property,No,No,No,0
 Mystic_Dev,Hiking Vest,product-crosssell,Property,No,No,No,0
+Mystic_Dev,Hiking Vest,popularity,Property,No,No,No,0
+Mystic_Dev,Hiking Vest,rating,Property,No,No,No,0
 Mystic_Dev,Hiking Vest,product-related,Property,No,No,No,0
 Mystic_Dev,Hiking Vest,product-upsell,Property,No,No,No,0
+Mystic_Dev,Hiking Vest,fill-power,Property,No,No,No,4
+Mystic_Dev,Hiking Vest,frame-color,Property,No,No,No,0
 Mystic_Dev,Hiking Vest,best-use,Property,No,No,No,0
+Mystic_Dev,Hiking Vest,gender,Property,No,No,No,5
 Mystic_Dev,Hiking Vest,brand,Property,No,No,No,0
-Mystic_Dev,Hiking Vest,rating,Property,No,No,No,0
+Mystic_Dev,Hiking Vest,brand-colors,Option,No,No,No,1
+Mystic_Dev,Hiking Vest,insulated,Property,No,No,No,1
+Mystic_Dev,Hiking Vest,insulation-type,Property,No,No,No,2
+Mystic_Dev,Hiking Vest,size,Option,No,No,No,2
+Mystic_Dev,Hiking Vest,features,Property,No,No,No,3
 Mystic_Dev,Hiking Vest,season,Property,No,No,No,0
 Mystic_Dev,Hiking Vest,role,Property,No,No,No,0
-Mystic_Dev,Hiking Vest,frame-color,Property,No,No,No,0
 Mystic_Dev,Hiking Vest,product-video-1,Property,No,No,No,0
 Mystic_Dev,Hiking Vest,new-product,Property,No,No,No,0
 Mystic_Dev,Hiking Vest,new-release,Property,No,No,No,0
-Mystic_Dev,Hiking Vest,insulated,Property,No,No,No,1
-Mystic_Dev,Hiking Vest,insulation-type,Property,No,No,No,2
-Mystic_Dev,Hiking Vest,features,Property,No,No,Yes,3
-Mystic_Dev,Hiking Vest,fill-power,Property,No,No,No,4
-Mystic_Dev,Hiking Vest,gender,Property,No,No,No,5
-Mystic_Dev,Hiking Vest,brand-colors,Option,No,No,No,1
-Mystic_Dev,Hiking Vest,size,Option,No,No,No,2
+Mystic_Dev,Boot,availability,Property,No,No,No,0
+Mystic_Dev,Boot,product-crosssell,Property,No,No,No,0
+Mystic_Dev,Boot,popularity,Property,No,No,No,0
+Mystic_Dev,Boot,rating,Property,No,No,No,0
+Mystic_Dev,Boot,product-related,Property,No,No,No,0
+Mystic_Dev,Boot,product-upsell,Property,No,No,No,0
 Mystic_Dev,Boot,frame-color,Property,No,No,No,0
+Mystic_Dev,Boot,best-use,Property,No,No,No,0
+Mystic_Dev,Boot,brand,Property,No,No,No,0
+Mystic_Dev,Boot,faset-color,Option,No,No,No,0
+Mystic_Dev,Boot,size,Option,No,No,No,0
 Mystic_Dev,Boot,season,Property,No,No,No,0
 Mystic_Dev,Boot,role,Property,No,No,No,0
 Mystic_Dev,Boot,product-video-1,Property,No,No,No,0
 Mystic_Dev,Boot,new-product,Property,No,No,No,0
 Mystic_Dev,Boot,new-release,Property,No,No,No,0
-Mystic_Dev,Boot,best-use,Property,No,No,No,0
-Mystic_Dev,Boot,brand,Property,No,No,No,0
-Mystic_Dev,Boot,popularity,Property,No,No,No,0
-Mystic_Dev,Boot,product-crosssell,Property,No,No,No,0
-Mystic_Dev,Boot,rating,Property,No,No,No,0
-Mystic_Dev,Boot,product-related,Property,No,No,No,0
-Mystic_Dev,Boot,product-upsell,Property,No,No,No,0
-Mystic_Dev,Boot,availability,Property,No,No,Yes,0
-Mystic_Dev,Boot,faset-color,Option,No,No,No,0
-Mystic_Dev,Boot,size,Option,No,No,No,0
-Mystic_Dev,Backpack,availability,Property,No,No,Yes,0
-Mystic_Dev,Backpack,popularity,Property,No,No,No,0
+Mystic_Dev,Backpack,availability,Property,No,No,No,0
 Mystic_Dev,Backpack,product-crosssell,Property,No,No,No,0
-Mystic_Dev,Backpack,frame-color,Property,No,No,No,0
+Mystic_Dev,Backpack,popularity,Property,No,No,No,0
+Mystic_Dev,Backpack,rating,Property,No,No,No,0
 Mystic_Dev,Backpack,product-related,Property,No,No,No,0
 Mystic_Dev,Backpack,product-upsell,Property,No,No,No,0
+Mystic_Dev,Backpack,frame-color,Property,No,No,No,0
 Mystic_Dev,Backpack,best-use,Property,No,No,No,0
 Mystic_Dev,Backpack,brand,Property,No,No,No,0
-Mystic_Dev,Backpack,rating,Property,No,No,No,0
+Mystic_Dev,Backpack,hydration-compatible,Property,No,No,No,0
+Mystic_Dev,Backpack,faset-color,Option,No,No,No,1
+Mystic_Dev,Backpack,size,Option,No,No,No,0
+Mystic_Dev,Backpack,season,Property,No,No,No,0
 Mystic_Dev,Backpack,role,Property,No,No,No,0
 Mystic_Dev,Backpack,product-video-1,Property,No,No,No,0
-Mystic_Dev,Backpack,new-product,Property,No,No,No,0
-Mystic_Dev,Backpack,new-release,Property,No,No,No,0
-Mystic_Dev,Backpack,hydration-compatible,Property,No,No,No,0
-Mystic_Dev,Backpack,season,Property,No,No,No,0
-Mystic_Dev,Backpack,size,Option,No,No,No,0
-Mystic_Dev,Backpack,faset-color,Option,No,No,No,1
 Mystic_Dev,Backpack,monogram,Extra,No,No,No,0
 Mystic_Dev,Backpack,gift-wrapping,Extra,No,No,No,0
 Mystic_Dev,Backpack,gift-message,Extra,No,No,No,0
+Mystic_Dev,Backpack,new-product,Property,No,No,No,0
 Mystic_Dev,Backpack,product-warranty,Extra,No,No,No,0
-Mystic_Dev,Accessories,availability,Property,No,No,Yes,0
-Mystic_Dev,Accessories,popularity,Property,No,No,No,0
+Mystic_Dev,Backpack,new-release,Property,No,No,No,0
+Mystic_Dev,Accessories,availability,Property,No,No,No,0
 Mystic_Dev,Accessories,product-crosssell,Property,No,No,No,0
-Mystic_Dev,Accessories,frame-color,Property,No,No,No,0
+Mystic_Dev,Accessories,popularity,Property,No,No,No,0
+Mystic_Dev,Accessories,rating,Property,No,No,No,0
 Mystic_Dev,Accessories,product-related,Property,No,No,No,0
 Mystic_Dev,Accessories,product-upsell,Property,No,No,No,0
+Mystic_Dev,Accessories,frame-color,Property,No,No,No,0
 Mystic_Dev,Accessories,best-use,Property,No,No,No,0
 Mystic_Dev,Accessories,brand,Property,No,No,No,0
-Mystic_Dev,Accessories,rating,Property,No,No,No,0
 Mystic_Dev,Accessories,season,Property,No,No,No,0
 Mystic_Dev,Accessories,role,Property,No,No,No,0
 Mystic_Dev,Accessories,product-video-1,Property,No,No,No,0
 Mystic_Dev,Accessories,new-product,Property,No,No,No,0
-Mystic_Dev,Accessories,new-release,Property,No,No,No,0
 Mystic_Dev,Accessories,loyalty-point-value,Property,No,No,No,0
-Mystic_Dev,Article,availability,Property,-2147483648
-Mystic_Dev,Article,popularity,Property,-2147483648
-Mystic_Dev,Article,product-crosssell,Property,-2147483648
-Mystic_Dev,Article,product-related,Property,-2147483648
-Mystic_Dev,Article,product-upsell,Property,-2147483648
-Mystic_Dev,Article,best-use,Property,-2147483648
-Mystic_Dev,Article,brand,Property,-2147483648
-Mystic_Dev,Article,rating,Property,-2147483648
-Mystic_Dev,Article,season,Property,-2147483648
-Mystic_Dev,Article,role,Property,-2147483648
-Mystic_Dev,Article,product-video-1,Property,-2147483648
-Mystic_Dev,Article,new-product,Property,-2147483648
-Mystic_Dev,Article,article-author,Property,0
-Mystic_Dev,Article,publish-date,Property,0
-Mystic_Dev,Article,article-season,Property,0
-Mystic_Dev,Base,availability,Property,No,No,No,3
+Mystic_Dev,Accessories,new-release,Property,No,No,No,0
+Mystic_Dev,Article,availability,Property,No,No,No,1
+Mystic_Dev,Article,product-crosssell,Property,No,No,No,1
+Mystic_Dev,Article,popularity,Property,No,No,No,1
+Mystic_Dev,Article,rating,Property,No,No,No,1
+Mystic_Dev,Article,product-related,Property,No,No,No,1
+Mystic_Dev,Article,product-upsell,Property,No,No,No,1
+Mystic_Dev,Article,best-use,Property,No,No,No,1
+Mystic_Dev,Article,brand,Property,No,No,No,1
+Mystic_Dev,Article,season,Property,No,No,No,1
+Mystic_Dev,Article,role,Property,No,No,No,1
+Mystic_Dev,Article,product-video-1,Property,No,No,No,1
+Mystic_Dev,Article,new-product,Property,No,No,No,1
+Mystic_Dev,Article,article-season,Property,No,No,No,1
+Mystic_Dev,Article,publish-date,Property,No,No,No,1
+Mystic_Dev,Article,article-author,Property,No,No,No,1

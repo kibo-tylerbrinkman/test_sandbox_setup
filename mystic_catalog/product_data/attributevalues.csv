@@ -1,14 +1,4 @@
 MasterCatalogName,AttributeCode,DataType,Namespace,Value,Name,DisplayOrder
-Mystic_Dev,fill-power,String,Tenant,551-to-650,551 to 650,1
-Mystic_Dev,fill-power,String,Tenant,651-to-750,651 to 750,2
-Mystic_Dev,fill-power,String,Tenant,751-to-850,751 to 850,3
-Mystic_Dev,sleeping-capacity,String,Tenant,1-Person,1 Person,1
-Mystic_Dev,sleeping-capacity,String,Tenant,2-Person,2 Person,2
-Mystic_Dev,sleeping-capacity,String,Tenant,3-Person,3 Person,3
-Mystic_Dev,sleeping-capacity,String,Tenant,4-Person,4 Person,4
-Mystic_Dev,sleeping-capacity,String,Tenant,5-Person,5 Person,5
-Mystic_Dev,sleeping-capacity,String,Tenant,6-Person,6 Person,6
-Mystic_Dev,sleeping-capacity,String,Tenant,8--Person,8+ Person,7
 Mystic_Dev,availability,String,Tenant,24hrs,Usually Ships in 24 Hours,1
 Mystic_Dev,availability,String,Tenant,24-48hrs,Usually Ships in 24 to 48 Hours,2
 Mystic_Dev,availability,String,Tenant,24-72hrs,Usually Ships in 24 to 72 Hours,3
@@ -19,6 +9,17 @@ Mystic_Dev,availability,String,Tenant,2-3weeks,Usually Ships in 2 to 3 Weeks,7
 Mystic_Dev,availability,String,Tenant,2-4weeks,Usually Ships in 2 to 4 Weeks,8
 Mystic_Dev,availability,String,Tenant,4-6weeks,Usually Ships in 4 to 6 Weeks,9
 Mystic_Dev,availability,String,Tenant,Available-for-Same-Day-In-Store-Pickup,Available for Same Day In-Store Pickup,10
+Mystic_Dev,price-list-entry-type,String,system,PLCODE,An example price list entry type,1
+Mystic_Dev,fill-power,String,Tenant,551-to-650,551 to 650,1
+Mystic_Dev,fill-power,String,Tenant,651-to-750,651 to 750,2
+Mystic_Dev,fill-power,String,Tenant,751-to-850,751 to 850,3
+Mystic_Dev,sleeping-capacity,String,Tenant,1-Person,1 Person,1
+Mystic_Dev,sleeping-capacity,String,Tenant,2-Person,2 Person,2
+Mystic_Dev,sleeping-capacity,String,Tenant,3-Person,3 Person,3
+Mystic_Dev,sleeping-capacity,String,Tenant,4-Person,4 Person,4
+Mystic_Dev,sleeping-capacity,String,Tenant,5-Person,5 Person,5
+Mystic_Dev,sleeping-capacity,String,Tenant,6-Person,6 Person,6
+Mystic_Dev,sleeping-capacity,String,Tenant,8--Person,8+ Person,7
 Mystic_Dev,footwear-closure,String,Tenant,Lace-up,Lace-up,1
 Mystic_Dev,footwear-closure,String,Tenant,Single-pull-Lace,Single-pull Lace,2
 Mystic_Dev,footwear-height,String,Tenant,Ankle,Ankle,1
@@ -662,7 +663,7 @@ Mystic_Dev,faset-color,String,Tenant,Acacia,Acacia,35
 Mystic_Dev,faset-color,String,Tenant,Anitque,Anitque,36
 Mystic_Dev,faset-color,String,Tenant,Natural-Brown,Natural Brown,37
 Mystic_Dev,faset-color,String,Tenant,Dark-Stonewash-Blue,Dark Stonewash Blue,38
-Mystic_Dev,faset-color,String,Tenant,Medium-Stonewash-Blue-,Medium Stonewash Blue ,39
+Mystic_Dev,faset-color,String,Tenant,Medium-Stonewash-Blue-,"Medium Stonewash Blue ",39
 Mystic_Dev,faset-color,String,Tenant,Stone,Stone,40
 Mystic_Dev,size,String,Tenant,Small,S,1
 Mystic_Dev,size,String,Tenant,Medium,M,2
